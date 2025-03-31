@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timezone  # Use timezone instead of UTC
+from datetime import datetime, timezone
 
 # URL to scrape
 url = "https://blog.stremio.com/category/stremio-news/"
@@ -39,9 +39,22 @@ for post in posts:
     if date_element and "datetime" in date_element.attrs:
         pub_date = datetime.strptime(date_element["datetime"], "%Y-%m-%dT%H:%M:%S%z").strftime("%a, %d %b %Y %H:%M:%S GMT")
     else:
-        pub_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")  # Update here too
+        pub_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
 
-    # Add item
+    # Check for image
+    image_element = post.find("img")
+    image_tag = ""
+    if image_element and "src" in image_element.attrs:
+        image_url = image_element["src"]
+        # Ensure the URL is absolute
+        if not image_url.startswith("http"):
+            image_url = "https://blog.stremio.com" + image_url
+        # Placeholder length (RSS requires it, but we don’t have the actual size yet)
+        image_length = "10000"  # Dummy value; ideally, fetch the image to get real size
+        image_type = "image/jpeg"  # Assume JPEG; adjust if needed
+        image_tag = f'<enclosure url="{image_url}" length="{image_length}" type="{image_type}" />'
+
+    # Add item with image if present
     rss += f"""
     <item>
       <title>{title}</title>
@@ -49,6 +62,7 @@ for post in posts:
       <description><![CDATA[{description}]]></description>
       <pubDate>{pub_date}</pubDate>
       <guid>{link}</guid>
+      {image_tag}
     </item>
     """
 
