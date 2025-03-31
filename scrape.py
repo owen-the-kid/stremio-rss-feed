@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, UTC  # Add UTC import
+from datetime import datetime, timezone  # Use timezone instead of UTC
 
 # URL to scrape
 url = "https://blog.stremio.com/category/stremio-news/"
@@ -16,7 +16,7 @@ rss = """<?xml version="1.0" encoding="UTF-8"?>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
     <lastBuildDate>{}</lastBuildDate>
-""".format(url, datetime.now(UTC).strftime("%a, %d %b %Y %H:%M:%S GMT"))
+""".format(url, datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT"))
 
 # Find posts
 posts = soup.find_all("article")
@@ -39,7 +39,7 @@ for post in posts:
     if date_element and "datetime" in date_element.attrs:
         pub_date = datetime.strptime(date_element["datetime"], "%Y-%m-%dT%H:%M:%S%z").strftime("%a, %d %b %Y %H:%M:%S GMT")
     else:
-        pub_date = datetime.now(UTC).strftime("%a, %d %b %Y %H:%M:%S GMT")  # Update here too
+        pub_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")  # Update here too
 
     # Add item
     rss += f"""
