@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Stremio News</title>
+    <link>https://blog.stremio.com/category/stremio-news/</link>
+    <description>Latest news and updates from the Stremio Blog</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Mar 2025 09:52:25 GMT</lastBuildDate>
+
+    <item>
+      <title>Stremio is now available on Philips TVs with TitanOS (models 2024+)</title>
+      <link>https://blog.stremio.com/stremio-is-now-available-on-philips-tvs-with-titanos-models-2024/</link>
+      <description><![CDATA[While Stremio has been available on Philips TVs running Android TV for a long time now, today we released Stremio for TitanOS! TitanOS is the new TV operating system running on 2024+ Philips TV models. The Stremio app for Philips TV is still new and due to limitations of this new OS it is currently…]]></description>
+      <pubDate>Mon, 03 Mar 2025 15:29:34 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-is-now-available-on-philips-tvs-with-titanos-models-2024/</guid>
+    </item>
+    
+    <item>
+      <title>Stremio v5 Playback Hotfix</title>
+      <link>https://blog.stremio.com/stremio-v5-playback-hotfix/</link>
+      <description><![CDATA[A few hours ago users created bug reports regarding playback issues with the latest Stremio v5 update, we reverted the changes 1 hour ago while we could investigate the issues further. We have now deployed a hotfix for the bug, if you are encountering any playback issues with Stremio v5 on Windows you should use…]]></description>
+      <pubDate>Thu, 27 Feb 2025 22:31:00 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-v5-playback-hotfix/</guid>
+    </item>
+    
+    <item>
+      <title>Stremio Tech Update #40 – Stremio v5 and Stremio Web Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-40-stremio-v5-and-stremio-web-updated/</link>
+      <description><![CDATA[We just released a new version of Stremio v5 for Windows, and updated Stremio Web, let’s see what changed! Stremio v5 shell: Fixed update check and procedure Fixed sending visibility events when window is shown / hidden Added “quit on close” setting Stremio Web (which is also the UI for Stremio v5): Prevent navigation bar…]]></description>
+      <pubDate>Thu, 27 Feb 2025 15:18:05 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-40-stremio-v5-and-stremio-web-updated/</guid>
+    </item>
+    
+    <item>
+      <title>Stremio Tech Update #39 – Samsung TV and LG TV Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-39-samsung-tv-and-lg-tv-updated/</link>
+      <description><![CDATA[We made an update to the Smart TV apps today. All the changes apply to both Samsung TV and LG TV apps: Fixed a case where the metadata preview area would be empty for continue watching items Improved load time and memory consumption Fixed a case where the navigation could get stuck when continue watching…]]></description>
+      <pubDate>Thu, 27 Feb 2025 09:13:36 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-39-samsung-tv-and-lg-tv-updated/</guid>
+    </item>
+    
+    <item>
+      <title>Stremio Tech Update #38 – Samsung TV and LG TV Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-38-samsung-tv-and-lg-tv-updated/</link>
+      <description><![CDATA[We made an update to the Smart TV apps today. All the changes apply to both Samsung TV and LG TV apps: Improved embedded subtitles / audio track label names Increased the contrast of the buttons in the video player Added more subtitle size options Fixed a bug for gamepad support on some TV models…]]></description>
+      <pubDate>Thu, 13 Feb 2025 18:20:13 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-38-samsung-tv-and-lg-tv-updated/</guid>
+    </item>
+    
+    <item>
+      <title>Android Mobile v2 Open for Beta Testing</title>
+      <link>https://blog.stremio.com/android-mobile-v2-open-for-beta-testing/</link>
+      <description><![CDATA[It’s been some time since we updated the Android Mobile app, and for good reason as we completely rewrote the app from the ground up with newer and better technologies. Android Mobile v2 is now available for beta testing, the app will update only for those that joined the beta program. (there is currently a…]]></description>
+      <pubDate>Mon, 10 Feb 2025 18:05:34 GMT</pubDate>
+      <guid>https://blog.stremio.com/android-mobile-v2-open-for-beta-testing/</guid>
+    </item>
+    
+    <item>
+      <title>iOS TestFlight is Now Full</title>
+      <link>https://blog.stremio.com/ios-testflight-is-now-full/</link>
+      <description><![CDATA[We recently announced (in the 10 Year Birthday post) that the iOS/iPadOS TestFlight has started, and we must now also announce the sad fact that all 10,000 seats for the testers have been filled. This means that no new testers can be added for the iOS/iPadOS app and that we will need to wait for…]]></description>
+      <pubDate>Mon, 10 Feb 2025 16:55:52 GMT</pubDate>
+      <guid>https://blog.stremio.com/ios-testflight-is-now-full/</guid>
+    </item>
+    
+    <item>
+      <title>10 Years of Stremio</title>
+      <link>https://blog.stremio.com/10-years-of-stremio/</link>
+      <description><![CDATA[While we haven’t made any birthday post in the past, we thought we should today as it’s Stremio’s 10th birthday! It’s certainly been a long road to get here, one that brought many great developers from all over the world together under Stremio’s flag, we hope it was as enjoyable for you (the users) as…]]></description>
+      <pubDate>Sat, 08 Feb 2025 19:59:04 GMT</pubDate>
+      <guid>https://blog.stremio.com/10-years-of-stremio/</guid>
+    </item>
+    
+    <item>
+      <title>Stremio v5 for Windows is Now Open Source</title>
+      <link>https://blog.stremio.com/stremio-v5-for-windows-is-now-open-source/</link>
+      <description><![CDATA[Not too long ago we released Stremio v5 for Windows. Now we made the new Stremio v5 Shell for Windows open source, the GitHub repository for it can be found here. Stremio v5 for Windows uses Stremio Web for the UI, which is also open source and can be found here. This project is currently…]]></description>
+      <pubDate>Tue, 04 Feb 2025 16:33:11 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-v5-for-windows-is-now-open-source/</guid>
+    </item>
+    
+    <item>
+      <title>Stremio Cinemeta Hotfix</title>
+      <link>https://blog.stremio.com/stremio-cinemeta-hotfix/</link>
+      <description><![CDATA[For the last few days we have been receiving user complaints that Cinemeta does not give metadata for some items. We have investigated the issues and applied some fixes that we believe should help, yet we are uncertain if this is completely fixed at the time of writing. Do keep in mind that this fix…]]></description>
+      <pubDate>Tue, 04 Feb 2025 16:28:56 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-cinemeta-hotfix/</guid>
+    </item>
+    
+  </channel>
+</rss>
