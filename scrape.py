@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, UTC  # Add UTC import
 
 # URL to scrape
 url = "https://blog.stremio.com/category/stremio-news/"
@@ -16,9 +16,9 @@ rss = """<?xml version="1.0" encoding="UTF-8"?>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
     <lastBuildDate>{}</lastBuildDate>
-""".format(url, datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT"))
+""".format(url, datetime.now(UTC).strftime("%a, %d %b %Y %H:%M:%S GMT"))
 
-# Find posts (adjust based on actual HTML structure)
+# Find posts
 posts = soup.find_all("article")
 
 for post in posts:
@@ -30,18 +30,18 @@ for post in posts:
     else:
         continue
 
-    # Extract description (first paragraph)
+    # Extract description
     description_element = post.find("div", class_="entry-content").find("p") if post.find("div", class_="entry-content") else None
     description = description_element.text.strip() if description_element else "No description available."
 
-    # Extract publication date
+    # Extract date
     date_element = post.find("time", class_="entry-date")
     if date_element and "datetime" in date_element.attrs:
         pub_date = datetime.strptime(date_element["datetime"], "%Y-%m-%dT%H:%M:%S%z").strftime("%a, %d %b %Y %H:%M:%S GMT")
     else:
-        pub_date = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
+        pub_date = datetime.now(UTC).strftime("%a, %d %b %Y %H:%M:%S GMT")  # Update here too
 
-    # Add item to RSS
+    # Add item
     rss += f"""
     <item>
       <title>{title}</title>
@@ -52,12 +52,12 @@ for post in posts:
     </item>
     """
 
-# Close RSS structure
+# Close RSS
 rss += """
   </channel>
 </rss>
 """
 
-# Write to file
-with open("stremio_news.xml", "w", encoding="utf-8") as f:
+# Save as .rss file
+with open("stremio_news.rss", "w", encoding="utf-8") as f:
     f.write(rss)
