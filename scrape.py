@@ -41,18 +41,21 @@ for post in posts:
     else:
         pub_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
 
-    # Check for image
-    image_element = post.find("img")
+    # Check for background image in featured-thumbnail-inner div
     image_tag = ""
-    if image_element and "src" in image_element.attrs:
-        image_url = image_element["src"]
-        # Ensure the URL is absolute
-        if not image_url.startswith("http"):
-            image_url = "https://blog.stremio.com" + image_url
-        # Placeholder length (RSS requires it, but we don’t have the actual size yet)
-        image_length = "10000"  # Dummy value; ideally, fetch the image to get real size
-        image_type = "image/jpeg"  # Assume JPEG; adjust if needed
-        image_tag = f'<enclosure url="{image_url}" length="{image_length}" type="{image_type}" />'
+    thumbnail_div = post.find("div", class_="featured-thumbnail-inner")
+    if thumbnail_div and "style" in thumbnail_div.attrs:
+        style = thumbnail_div["style"]
+        # Extract URL from background-image:url(...);
+        if "background-image:url(" in style:
+            image_url = style.split("background-image:url(")[1].split(")")[0].strip()
+            # Ensure absolute URL
+            if not image_url.startswith("http"):
+                image_url = "https://blog.stremio.com" + image_url
+            # Placeholder length and type
+            image_length = "10000"  # Dummy value
+            image_type = "image/png" if image_url.endswith(".png") else "image/jpeg"  # Guess based on extension
+            image_tag = f'<enclosure url="{image_url}" length="{image_length}" type="{image_type}" />'
 
     # Add item with image if present
     rss += f"""
