@@ -76,4 +76,4 @@ Contributions are welcome! If you'd like to improve the scraper or add features,
 
 ## License
 
-This project is available under the MIT License.
+This project is not licensed and i will not license it because it is made by Grok and Claude(The AI's by X and Anthropic)
