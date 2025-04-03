@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2025 01:41:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 01:40:30 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #41 – Stremio v5 and Stremio Web Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-41-stremio-v5-and-stremio-web-updated/</link>
+      <description><![CDATA[We just released a new version of Stremio v5 for Windows, and updated Stremio Web, let’s see what changed! Stremio v5 shell: More IPC events for window state (full screen, window restored) Fix opening external links Stremio Web (which is also the UI for Stremio v5): Player: add pause on window minimize setting (shell only)…]]></description>
+      <pubDate>Wed, 02 Apr 2025 14:18:16 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-41-stremio-v5-and-stremio-web-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Introducing Stremio AI</title>
       <link>https://blog.stremio.com/introducing-stremio-ai/</link>
@@ -86,15 +95,6 @@
       <pubDate>Sat, 08 Feb 2025 19:59:04 GMT</pubDate>
       <guid>https://blog.stremio.com/10-years-of-stremio/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/02/Stremio-10th-birthday.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio v5 for Windows is Now Open Source</title>
-      <link>https://blog.stremio.com/stremio-v5-for-windows-is-now-open-source/</link>
-      <description><![CDATA[Not too long ago we released Stremio v5 for Windows. Now we made the new Stremio v5 Shell for Windows open source, the GitHub repository for it can be found here. Stremio v5 for Windows uses Stremio Web for the UI, which is also open source and can be found here. This project is currently…]]></description>
-      <pubDate>Tue, 04 Feb 2025 16:33:11 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-v5-for-windows-is-now-open-source/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/02/stremio-5-opensource.png" length="10000" type="image/png" />
     </item>
     
   </channel>
