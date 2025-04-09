@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Apr 2025 01:41:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 01:41:23 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio VR Released for Meta Quest Devices</title>
+      <link>https://blog.stremio.com/stremio-vr-released-for-meta-quest-devices/</link>
+      <description><![CDATA[Introducing Stremio in VR! You can install it on your Meta Quest 3, 3S, 2 or Pro device from the Horizon Store by searching for “stremio”. The Stremio VR app also supports new video types that no other Stremio app supports: all VR video types: 180, 190, 200, 220 and 360 degree all 3D video…]]></description>
+      <pubDate>Tue, 08 Apr 2025 17:01:20 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-vr-released-for-meta-quest-devices/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/04/meta-quest-release.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #41 – Stremio v5 and Stremio Web Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-41-stremio-v5-and-stremio-web-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Mon, 10 Feb 2025 16:55:52 GMT</pubDate>
       <guid>https://blog.stremio.com/ios-testflight-is-now-full/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/02/iOS-beta-testers.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>10 Years of Stremio</title>
-      <link>https://blog.stremio.com/10-years-of-stremio/</link>
-      <description><![CDATA[While we haven’t made any birthday post in the past, we thought we should today as it’s Stremio’s 10th birthday! It’s certainly been a long road to get here, one that brought many great developers from all over the world together under Stremio’s flag, we hope it was as enjoyable for you (the users) as…]]></description>
-      <pubDate>Sat, 08 Feb 2025 19:59:04 GMT</pubDate>
-      <guid>https://blog.stremio.com/10-years-of-stremio/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/02/Stremio-10th-birthday.png" length="10000" type="image/png" />
     </item>
     
   </channel>
