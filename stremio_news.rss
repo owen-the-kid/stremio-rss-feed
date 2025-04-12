@@ -5,8 +5,26 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Apr 2025 01:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 01:39:00 GMT</lastBuildDate>
 
+    <item>
+      <title>Installing Stremio on Hisense TV with Vidaa OS</title>
+      <link>https://blog.stremio.com/installing-stremio-on-hisense-tv/</link>
+      <description><![CDATA[Some Hisense TVs (specifically from USA) use Android TV instead of Vidaa OS, on those TVs you can install Stremio directly from the Play Store. While Stremio is not available in the Hisense with Vidaa OS app store (although we have been trying to get into the Vidaa developer platform since August 2024), you can…]]></description>
+      <pubDate>Fri, 11 Apr 2025 15:18:03 GMT</pubDate>
+      <guid>https://blog.stremio.com/installing-stremio-on-hisense-tv/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/04/hisense-tv-release.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Stremio VR Hotfix</title>
+      <link>https://blog.stremio.com/stremio-vr-hotfix/</link>
+      <description><![CDATA[We released a hotfix for the new Meta Quest app to resolve an issue where the app could crash when opening the streams page for some users. Other minor changes were also included, such as fixing an overlapping issue in the seasons selector and removing the Unity splash screen. Happy watching!]]></description>
+      <pubDate>Fri, 11 Apr 2025 15:02:48 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-vr-hotfix/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/08/hotfix-2.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio VR Released for Meta Quest Devices</title>
       <link>https://blog.stremio.com/stremio-vr-released-for-meta-quest-devices/</link>
@@ -77,24 +95,6 @@
       <pubDate>Thu, 13 Feb 2025 18:20:13 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-38-samsung-tv-and-lg-tv-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Android Mobile v2 Open for Beta Testing</title>
-      <link>https://blog.stremio.com/android-mobile-v2-open-for-beta-testing/</link>
-      <description><![CDATA[It’s been some time since we updated the Android Mobile app, and for good reason as we completely rewrote the app from the ground up with newer and better technologies. Android Mobile v2 is now available for beta testing, the app will update only for those that joined the beta program. (there is currently a…]]></description>
-      <pubDate>Mon, 10 Feb 2025 18:05:34 GMT</pubDate>
-      <guid>https://blog.stremio.com/android-mobile-v2-open-for-beta-testing/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/02/android-mobile-beta-testers.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>iOS TestFlight is Now Full</title>
-      <link>https://blog.stremio.com/ios-testflight-is-now-full/</link>
-      <description><![CDATA[We recently announced (in the 10 Year Birthday post) that the iOS/iPadOS TestFlight has started, and we must now also announce the sad fact that all 10,000 seats for the testers have been filled. This means that no new testers can be added for the iOS/iPadOS app and that we will need to wait for…]]></description>
-      <pubDate>Mon, 10 Feb 2025 16:55:52 GMT</pubDate>
-      <guid>https://blog.stremio.com/ios-testflight-is-now-full/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/02/iOS-beta-testers.png" length="10000" type="image/png" />
     </item>
     
   </channel>
