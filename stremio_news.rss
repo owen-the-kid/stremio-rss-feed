@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Apr 2025 01:43:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 01:42:27 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #42 – Stremio VR Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-42-stremio-vr-updated/</link>
+      <description><![CDATA[We updated the Stremio VR app for Meta Quest devices. Let’s see what changed: Improved UI for Meta Quest 2 Improved Video Quality Added Episode Progress and Check mark on Watched Fixed Subtitle Cues Getting Stuck When Hiding the Video Control Panel Added Recentering on Y/B buttons Added Next Episode Button for Series on Video Control…]]></description>
+      <pubDate>Wed, 16 Apr 2025 11:45:41 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-42-stremio-vr-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Installing Stremio on Hisense TV with Vidaa OS</title>
       <link>https://blog.stremio.com/installing-stremio-on-hisense-tv/</link>
@@ -85,15 +94,6 @@
       <description><![CDATA[We made an update to the Smart TV apps today. All the changes apply to both Samsung TV and LG TV apps: Fixed a case where the metadata preview area would be empty for continue watching items Improved load time and memory consumption Fixed a case where the navigation could get stuck when continue watching…]]></description>
       <pubDate>Thu, 27 Feb 2025 09:13:36 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-39-samsung-tv-and-lg-tv-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #38 – Samsung TV and LG TV Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-38-samsung-tv-and-lg-tv-updated/</link>
-      <description><![CDATA[We made an update to the Smart TV apps today. All the changes apply to both Samsung TV and LG TV apps: Improved embedded subtitles / audio track label names Increased the contrast of the buttons in the video player Added more subtitle size options Fixed a bug for gamepad support on some TV models…]]></description>
-      <pubDate>Thu, 13 Feb 2025 18:20:13 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-38-samsung-tv-and-lg-tv-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
     </item>
     
