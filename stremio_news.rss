@@ -5,7 +5,7 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Apr 2025 01:40:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 01:38:26 GMT</lastBuildDate>
 
     <item>
       <title>Stremio Tech Update #42 – Stremio VR Updated</title>
@@ -19,7 +19,7 @@
     <item>
       <title>Installing Stremio on Hisense TV with Vidaa OS</title>
       <link>https://blog.stremio.com/installing-stremio-on-hisense-tv/</link>
-      <description><![CDATA[Some Hisense TVs (specifically from USA) use Android TV instead of Vidaa OS, on those TVs you can install Stremio directly from the Play Store. While Stremio is not available in the Hisense with Vidaa OS app store (although we have been trying to get into the Vidaa developer platform since August 2024), you can…]]></description>
+      <description><![CDATA[Some Hisense TVs (specifically from USA) use Android TV instead of Vidaa OS, on those TVs you can install Stremio directly from the Play Store. Note: If you are a developer and would prefer to run this project locally instead of following the steps in this article, you can find it on GitHub here While…]]></description>
       <pubDate>Fri, 11 Apr 2025 15:18:03 GMT</pubDate>
       <guid>https://blog.stremio.com/installing-stremio-on-hisense-tv/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/04/hisense-tv-release.png" length="10000" type="image/png" />
