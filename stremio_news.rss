@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 01:47:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 01:46:41 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #44 – Stremio v5, Web & VR Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-44-stremio-v5-web-vr-updated/</link>
+      <description><![CDATA[We just released a new version of Stremio v5 for Windows, a new version of Stremio VR and updated Stremio Web, let’s see what changed! Stremio v5 shell: Fixed an issue with skipping multiple episodes when using the “next video” button while binge watching Fixed other binge watching specific issues Stremio Web (which is also…]]></description>
+      <pubDate>Tue, 13 May 2025 12:19:50 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-44-stremio-v5-web-vr-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #43 – Stremio v5 and Stremio Web Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-43-stremio-v5-and-stremio-web-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 27 Feb 2025 22:31:00 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-v5-playback-hotfix/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/08/hotfix-2.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #40 – Stremio v5 and Stremio Web Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-40-stremio-v5-and-stremio-web-updated/</link>
-      <description><![CDATA[We just released a new version of Stremio v5 for Windows, and updated Stremio Web, let’s see what changed! Stremio v5 shell: Fixed update check and procedure Fixed sending visibility events when window is shown / hidden Added “quit on close” setting Stremio Web (which is also the UI for Stremio v5): Prevent navigation bar…]]></description>
-      <pubDate>Thu, 27 Feb 2025 15:18:05 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-40-stremio-v5-and-stremio-web-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
     </item>
     
   </channel>
