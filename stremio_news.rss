@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 01:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 01:47:56 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio 5 Released for Linux!</title>
+      <link>https://blog.stremio.com/stremio-5-released-for-linux/</link>
+      <description><![CDATA[We just released Stremio v5 for Linux, it is currently in the beta channel on Flathub: https://flathub.org/apps/com.stremio.Stremio Linux users can now install the beta version through flatpak by using the following commands: flatpak remote-add –if-not-exists flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepo flatpak update –appstream flatpak install flathub-beta com.stremio.Stremio or through the Flathub software center app. We are also working…]]></description>
+      <pubDate>Fri, 06 Jun 2025 13:14:21 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-5-released-for-linux/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/06/stremio-5-for-win-2_20250606_141242_0013.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #45 – Stremio VR Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-45-stremio-vr-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Tue, 01 Apr 2025 08:37:34 GMT</pubDate>
       <guid>https://blog.stremio.com/introducing-stremio-ai/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/04/stremio_ai_2.jpg" length="10000" type="image/jpeg" />
-    </item>
-    
-    <item>
-      <title>Stremio is now available on Philips TVs with TitanOS (models 2024+)</title>
-      <link>https://blog.stremio.com/stremio-is-now-available-on-philips-tvs-with-titanos-models-2024/</link>
-      <description><![CDATA[While Stremio has been available on Philips TVs running Android TV for a long time now, today we released Stremio for TitanOS! TitanOS is the new TV operating system running on 2024+ Philips TV models. The Stremio app for Philips TV is still new and due to limitations of this new OS it is currently…]]></description>
-      <pubDate>Mon, 03 Mar 2025 15:29:34 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-is-now-available-on-philips-tvs-with-titanos-models-2024/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/03/philips-tv-release.png" length="10000" type="image/png" />
     </item>
     
   </channel>
