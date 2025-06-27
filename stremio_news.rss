@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 01:51:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 01:52:32 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #46 – Stremio Web v5 and Stremio Web Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-46-stremio-web-v5-and-stremio-web-updated/</link>
+      <description><![CDATA[Let’s see what changed: Search: align styles with board catalogs Player: fix formatting of statistics menu Discover: Improve navigation for mobile Settings: Allow disabling subtitles globally App(Desktop v5): fix toggle & exit fullscreen App(Desktop v5): toggle fullscreen with F key App(Desktop v5): full deeplink support Settings: fix trakt logout button Аpp: Replace Multiselect usage with…]]></description>
+      <pubDate>Thu, 26 Jun 2025 13:10:30 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-46-stremio-web-v5-and-stremio-web-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio 5 Released for Linux!</title>
       <link>https://blog.stremio.com/stremio-5-released-for-linux/</link>
@@ -86,15 +95,6 @@
       <pubDate>Wed, 02 Apr 2025 14:18:16 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-41-stremio-v5-and-stremio-web-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Introducing Stremio AI</title>
-      <link>https://blog.stremio.com/introducing-stremio-ai/</link>
-      <description><![CDATA[We’re excited to unveil Stremio AI! Harnessing advanced artificial intelligence to tackle a fundamental challenge: distilling movie and episode plots into concise, accessible summaries. Stremio AI watches content for you, allowing you to reclaim valuable time for meaningful connections with loved ones rather than spending hours viewing everything yourself. Our AI creates comprehensive summaries of…]]></description>
-      <pubDate>Tue, 01 Apr 2025 08:37:34 GMT</pubDate>
-      <guid>https://blog.stremio.com/introducing-stremio-ai/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/04/stremio_ai_2.jpg" length="10000" type="image/jpeg" />
     </item>
     
   </channel>
