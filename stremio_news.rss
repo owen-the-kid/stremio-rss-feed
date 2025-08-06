@@ -5,10 +5,19 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Aug 2025 02:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 02:02:19 GMT</lastBuildDate>
 
     <item>
-      <title>Stremio Tech Update #46 – Stremio Web v5 and Stremio Web Updated</title>
+      <title>Stremio Tech Update #47 – Stremio v5 for Windows Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-47-stremio-v5-for-windows-updated/</link>
+      <description><![CDATA[We just released Stremio v5.0.13 for Windows, from this version forward we have decided to support only 64bit processors for Windows. (as 32bit processors are considered obsolete and have been deprecated by Microsoft too) Users that still want to use old devices with 32bit processors can still use Stremio v4.4 for the foreseeable future. Supporting…]]></description>
+      <pubDate>Tue, 05 Aug 2025 17:46:03 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-47-stremio-v5-for-windows-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Stremio Tech Update #46 – Stremio v5 and Stremio Web Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-46-stremio-web-v5-and-stremio-web-updated/</link>
       <description><![CDATA[Let’s see what changed: Search: align styles with board catalogs Player: fix formatting of statistics menu Discover: Improve navigation for mobile Settings: Allow disabling subtitles globally App(Desktop v5): fix toggle & exit fullscreen App(Desktop v5): toggle fullscreen with F key App(Desktop v5): full deeplink support Settings: fix trakt logout button Аpp: Replace Multiselect usage with…]]></description>
       <pubDate>Thu, 26 Jun 2025 13:10:30 GMT</pubDate>
@@ -86,15 +95,6 @@
       <pubDate>Tue, 08 Apr 2025 17:01:20 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-vr-released-for-meta-quest-devices/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/04/meta-quest-release.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #41 – Stremio v5 and Stremio Web Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-41-stremio-v5-and-stremio-web-updated/</link>
-      <description><![CDATA[We just released a new version of Stremio v5 for Windows, and updated Stremio Web, let’s see what changed! Stremio v5 shell: More IPC events for window state (full screen, window restored) Fix opening external links Stremio Web (which is also the UI for Stremio v5): Player: add pause on window minimize setting (shell only)…]]></description>
-      <pubDate>Wed, 02 Apr 2025 14:18:16 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-41-stremio-v5-and-stremio-web-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
     </item>
     
   </channel>
