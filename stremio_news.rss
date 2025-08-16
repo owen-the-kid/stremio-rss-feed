@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2025 01:53:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 01:48:11 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #50 – Stremio Android TV Beta Update</title>
+      <link>https://blog.stremio.com/stremio-tech-update-50-stremio-android-tv-beta-update/</link>
+      <description><![CDATA[We released a new Android TV Beta v1.6.15, let’s see what changed: fixed page navigation issues (going back from player to streams page, episode page, etc) fixed showing artwork when video is loading fixed player crash when there are no subtitles If your Android TV device does not have Google Play, you can download the…]]></description>
+      <pubDate>Fri, 15 Aug 2025 18:29:51 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-50-stremio-android-tv-beta-update/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2024/07/android-tv.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #49 – Stremio iOS / iPadOS Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-49-stremio-ios-ipados-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Mon, 28 Apr 2025 15:34:25 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-43-stremio-v5-and-stremio-web-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2024/01/Tech-update-for-Stremio-web.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #42 – Stremio VR Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-42-stremio-vr-updated/</link>
-      <description><![CDATA[We updated the Stremio VR app for Meta Quest devices. Let’s see what changed: Improved UI for Meta Quest 2 Improved Video Quality Added Episode Progress and Check mark on Watched Fixed Subtitle Cues Getting Stuck When Hiding the Video Control Panel Added Recentering on Y/B buttons Added Next Episode Button for Series on Video Control…]]></description>
-      <pubDate>Wed, 16 Apr 2025 11:45:41 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-42-stremio-vr-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
     </item>
     
   </channel>
