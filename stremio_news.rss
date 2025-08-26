@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Aug 2025 01:49:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 01:45:45 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio OpenSubtitles Hotfix</title>
+      <link>https://blog.stremio.com/stremio-opensubtitles-hotfix/</link>
+      <description><![CDATA[This was a hard weekend for Stremio as the OpenSubtitles API was blocking our servers due to a recent change on their side and we received a huge number of reports from our users about it. We first became aware of this on friday and contacted OpenSubtitles support, a fix could not be provided on…]]></description>
+      <pubDate>Mon, 25 Aug 2025 08:26:01 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-opensubtitles-hotfix/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2024/01/Infra-fix.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #50 – Stremio Android TV Beta Update</title>
       <link>https://blog.stremio.com/stremio-tech-update-50-stremio-android-tv-beta-update/</link>
@@ -86,15 +95,6 @@
       <pubDate>Tue, 13 May 2025 12:19:50 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-44-stremio-v5-web-vr-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #43 – Stremio v5 and Stremio Web Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-43-stremio-v5-and-stremio-web-updated/</link>
-      <description><![CDATA[We just released a new version of Stremio v5 for Windows, and updated Stremio Web, let’s see what changed! Stremio v5 shell: Fixed an issue that would show the volume bar as disabled in some cases Stremio Web (which is also the UI for Stremio v5): Fixed non latin characters font issue Fixed font weight…]]></description>
-      <pubDate>Mon, 28 Apr 2025 15:34:25 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-43-stremio-v5-and-stremio-web-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2024/01/Tech-update-for-Stremio-web.png" length="10000" type="image/png" />
     </item>
     
   </channel>
