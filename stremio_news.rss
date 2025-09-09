@@ -5,8 +5,26 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Sep 2025 01:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 01:41:14 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #52 – Android Mobile and Android TV Beta Update</title>
+      <link>https://blog.stremio.com/stremio-tech-update-52-android-mobile-and-android-tv-beta-update/</link>
+      <description><![CDATA[We just released Stremio Android Mobile Beta v2.0.0-rc.15 and Stremio Android TV Beta v1.6.16 Let’s see what changed: Android TV Fixed moving to next episode after exiting the player Android Mobile Fixed crash after login / startup Fixed autoplay on pressing poster from continue watching section Added support for TV navigation For those that want…]]></description>
+      <pubDate>Mon, 08 Sep 2025 13:49:04 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-52-android-mobile-and-android-tv-beta-update/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Stremio Tech Update #51 – Stremio VR Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-51-stremio-vr-updated/</link>
+      <description><![CDATA[We made a huge update to the Stremio VR app! Let’s see what changed: Movable screen (on a sphere area around the user, so it can also be above and tilted down towards the user, after laying down you would need to keep “Meta” button pressed to recenter as you would probably go outside safe…]]></description>
+      <pubDate>Mon, 08 Sep 2025 12:50:36 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-51-stremio-vr-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-2.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio OpenSubtitles Hotfix</title>
       <link>https://blog.stremio.com/stremio-opensubtitles-hotfix/</link>
@@ -77,24 +95,6 @@
       <pubDate>Fri, 06 Jun 2025 13:14:21 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-5-released-for-linux/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/06/stremio-5-for-win-2_20250606_141242_0013.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #45 – Stremio VR Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-45-stremio-vr-updated/</link>
-      <description><![CDATA[With today’s update we managed to greatly improve the overall graphics of the Stremio VR app (for Meta Quest), here’s what changed: Increased the overall resolution of the app Improved poster quality Improved image loading performance The update is currently rolling out and may still take up to 24h to be propagated to all users….]]></description>
-      <pubDate>Mon, 19 May 2025 14:23:26 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-45-stremio-vr-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #44 – Stremio v5, Web & VR Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-44-stremio-v5-web-vr-updated/</link>
-      <description><![CDATA[We just released a new version of Stremio v5 for Windows, a new version of Stremio VR and updated Stremio Web, let’s see what changed! Stremio v5 shell: Fixed an issue with skipping multiple episodes when using the “next video” button while binge watching Fixed other binge watching specific issues Stremio Web (which is also…]]></description>
-      <pubDate>Tue, 13 May 2025 12:19:50 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-44-stremio-v5-web-vr-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
     </item>
     
   </channel>
