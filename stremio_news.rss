@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 2025 01:37:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 01:37:34 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #53 – Android Mobile and Android TV Beta Update</title>
+      <link>https://blog.stremio.com/stremio-tech-update-53-android-mobile-and-android-tv-beta-update/</link>
+      <description><![CDATA[We just released Stremio Android Mobile Beta v2.0.0-rc.16 and Stremio Android TV Beta v1.6.17 Let’s see what changed: Android Mobile Fixed an issue with installing addons from addon configuration pages Fixed VLC crash after the app is refreshed Fixed a scroll bug Fixed an issue where the app was crashing when VLC was returning an…]]></description>
+      <pubDate>Wed, 17 Sep 2025 15:57:21 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-53-android-mobile-and-android-tv-beta-update/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio for LG TV is Back in the 2024 / 2025 LG TV Store</title>
       <link>https://blog.stremio.com/stremio-for-lg-tv-is-back-in-the-2024-2025-lg-tv-store/</link>
@@ -85,15 +94,6 @@
       <description><![CDATA[We just released Stremio v5.0.13 for Windows, from this version forward we have decided to support only 64bit processors for Windows. (as 32bit processors are considered obsolete and have been deprecated by Microsoft too) Users that still want to use old devices with 32bit processors can still use Stremio v4.4 for the foreseeable future. Supporting…]]></description>
       <pubDate>Tue, 05 Aug 2025 17:46:03 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-47-stremio-v5-for-windows-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #46 – Stremio v5 and Stremio Web Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-46-stremio-web-v5-and-stremio-web-updated/</link>
-      <description><![CDATA[Let’s see what changed: Search: align styles with board catalogs Player: fix formatting of statistics menu Discover: Improve navigation for mobile Settings: Allow disabling subtitles globally App(Desktop v5): fix toggle & exit fullscreen App(Desktop v5): toggle fullscreen with F key App(Desktop v5): full deeplink support Settings: fix trakt logout button Аpp: Replace Multiselect usage with…]]></description>
-      <pubDate>Thu, 26 Jun 2025 13:10:30 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-46-stremio-web-v5-and-stremio-web-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
     </item>
     
