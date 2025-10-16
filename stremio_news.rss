@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Oct 2025 01:42:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 01:41:47 GMT</lastBuildDate>
 
+    <item>
+      <title>Testers Needed for Stremio Lite (iOS)</title>
+      <link>https://blog.stremio.com/testers-needed-for-stremio-lite-ios/</link>
+      <description><![CDATA[Warning: There is a known bug that causes a crash on app start for users of iOS 26 Beta 1 (23A5260n), to fix this the user would need to leave the iOS beta channel. We have made a big update to the Stremio Lite app and have released it for TestFlight only until we can…]]></description>
+      <pubDate>Wed, 15 Oct 2025 09:59:19 GMT</pubDate>
+      <guid>https://blog.stremio.com/testers-needed-for-stremio-lite-ios/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/08/iOS-release.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #54 – Android Mobile and Android TV Beta Update</title>
       <link>https://blog.stremio.com/stremio-tech-update-54-android-mobile-and-android-tv-beta-update/</link>
@@ -86,15 +95,6 @@
       <pubDate>Tue, 12 Aug 2025 18:16:18 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-48-stremio-android-tv-beta-is-now-live/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2024/07/android-tv.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Lite Released to Apple App Store</title>
-      <link>https://blog.stremio.com/stremio-lite-released-to-apple-app-store/</link>
-      <description><![CDATA[After 6 months of App Store reviews, we are happy to present to you: Stremio Lite The app is named “Stremio Lite” because it does not include the streaming server that is available on the majority of platforms. This means that torrents will not be supported in the app (due to app store rules), the…]]></description>
-      <pubDate>Wed, 06 Aug 2025 12:04:12 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-lite-released-to-apple-app-store/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/08/iOS-release.png" length="10000" type="image/png" />
     </item>
     
   </channel>
