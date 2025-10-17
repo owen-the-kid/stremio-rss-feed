@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Oct 2025 01:41:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 01:40:55 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #55 – Android Mobile Beta Update</title>
+      <link>https://blog.stremio.com/stremio-tech-update-55-android-mobile-beta-update/</link>
+      <description><![CDATA[We just released Stremio Android Mobile Beta v2.0.0-rc.18 Let’s see what changed: Fixed HDR in VLC Fixed seeking to the start Fixed tap gesture on the seekbar Do not show player UI when using the phone’s volume buttons For those that want to join the Beta for these apps, you can join from the “Stremio”…]]></description>
+      <pubDate>Thu, 16 Oct 2025 09:34:51 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-55-android-mobile-beta-update/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Testers Needed for Stremio Lite (iOS)</title>
       <link>https://blog.stremio.com/testers-needed-for-stremio-lite-ios/</link>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 14 Aug 2025 10:28:15 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-49-stremio-ios-ipados-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/08/iOS-release.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #48 – Stremio Android TV Beta is Now Live</title>
-      <link>https://blog.stremio.com/stremio-tech-update-48-stremio-android-tv-beta-is-now-live/</link>
-      <description><![CDATA[We have increased the Android (mobile and TV) beta testing limit to unlimited users and have added Stremio Android TV to the Beta channel. Everyone can test the new Android TV release by joining the Android beta channel for Stremio now. Let’s see what changed: Added “Blur unwatched episodes image” setting Improved subtitles menu (select…]]></description>
-      <pubDate>Tue, 12 Aug 2025 18:16:18 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-48-stremio-android-tv-beta-is-now-live/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2024/07/android-tv.png" length="10000" type="image/png" />
     </item>
     
   </channel>
