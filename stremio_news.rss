@@ -5,8 +5,26 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Oct 2025 01:49:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 01:48:43 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Lite for Apple TV (tvOS) is Now in App Store</title>
+      <link>https://blog.stremio.com/stremio-lite-for-apple-tv-tvos-is-now-in-app-store/</link>
+      <description><![CDATA[We just released the highly anticipated Stremio Lite for Apple TV (tvOS), you can install it at this App Store link. As this is our first release for this device, please send any bug reports to this link. Some screenshots of the app: It make take an hour or two for the app to show…]]></description>
+      <pubDate>Wed, 29 Oct 2025 20:18:46 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-lite-for-apple-tv-tvos-is-now-in-app-store/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/tvOS-release.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Stremio Tech Update #56 – New Android Mobile and Android TV Apps Released</title>
+      <link>https://blog.stremio.com/stremio-tech-update-56-new-android-mobile-and-android-tv-apps-released/</link>
+      <description><![CDATA[We have been running a beta for the Android Mobile and Android TV apps for some time, and we have (finally) moved them to production so all our users can enjoy them! We’re thrilled to present to you our all-new Stremio mobile app, designed from the ground up for speed, simplicity and the best user…]]></description>
+      <pubDate>Wed, 29 Oct 2025 13:52:27 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-56-new-android-mobile-and-android-tv-apps-released/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #55 – Android Mobile Beta Update</title>
       <link>https://blog.stremio.com/stremio-tech-update-55-android-mobile-beta-update/</link>
@@ -77,24 +95,6 @@
       <pubDate>Mon, 25 Aug 2025 08:26:01 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-opensubtitles-hotfix/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2024/01/Infra-fix.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #50 – Stremio Android TV Beta Update</title>
-      <link>https://blog.stremio.com/stremio-tech-update-50-stremio-android-tv-beta-update/</link>
-      <description><![CDATA[We released a new Android TV Beta v1.6.15, let’s see what changed: fixed page navigation issues (going back from player to streams page, episode page, etc) fixed showing artwork when video is loading fixed player crash when there are no subtitles If your Android TV device does not have Google Play, you can download the…]]></description>
-      <pubDate>Fri, 15 Aug 2025 18:29:51 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-50-stremio-android-tv-beta-update/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2024/07/android-tv.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #49 – Stremio iOS / iPadOS Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-49-stremio-ios-ipados-updated/</link>
-      <description><![CDATA[We made an update to the new Stremio Lite app for iOS / iPadOS. Let’s see what changed in Stremio Lite v1.2.1 for iOS / iPadOS: Added episode menu in player Added support to log in from keychain Added support for external players Added support for addon “stream.behaviorHints.proxyHeaders” (currently the default KSPlayer internal player supports…]]></description>
-      <pubDate>Thu, 14 Aug 2025 10:28:15 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-49-stremio-ios-ipados-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/08/iOS-release.png" length="10000" type="image/png" />
     </item>
     
   </channel>
