@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Nov 2025 01:47:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 01:47:16 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #57 – Apple TV (tvOS), Android TV and Android Mobile Apps Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-57-apple-tv-tvos-android-tv-and-android-mobile-apps-updated/</link>
+      <description><![CDATA[We just released new versions of the Apple TV (tvOS), Android TV and Android mobile apps. Apple TV changes: fixed playback of live videos added external player support for Infuse fixed embedded subtitles showing even when disabled from settings fixed adding to library from dropdown menu fixes navigation bug where focus would get locked to…]]></description>
+      <pubDate>Wed, 05 Nov 2025 08:14:29 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-57-apple-tv-tvos-android-tv-and-android-mobile-apps-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Lite for Apple TV (tvOS) is Now in App Store</title>
       <link>https://blog.stremio.com/stremio-lite-for-apple-tv-tvos-is-now-in-app-store/</link>
@@ -86,15 +95,6 @@
       <pubDate>Mon, 08 Sep 2025 12:50:36 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-51-stremio-vr-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-2.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio OpenSubtitles Hotfix</title>
-      <link>https://blog.stremio.com/stremio-opensubtitles-hotfix/</link>
-      <description><![CDATA[This was a hard weekend for Stremio as the OpenSubtitles API was blocking our servers due to a recent change on their side and we received a huge number of reports from our users about it. We first became aware of this on friday and contacted OpenSubtitles support, a fix could not be provided on…]]></description>
-      <pubDate>Mon, 25 Aug 2025 08:26:01 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-opensubtitles-hotfix/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2024/01/Infra-fix.png" length="10000" type="image/png" />
     </item>
     
   </channel>
