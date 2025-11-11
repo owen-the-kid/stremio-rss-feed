@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 01:51:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 01:47:59 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #58 – Stremio VR Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-58-stremio-vr-updated/</link>
+      <description><![CDATA[We made a huge update to the Stremio VR app! Let’s see what changed: Added HAND TRACKING support Added ROOM SCALE support Added SCREEN RESIZING features Redesigned video control panel Added streaming progress indicator Fixed issues with trailers and YouTube playback Fixed duplicate video tags on the movie info page Fixed issue where videos sometimes…]]></description>
+      <pubDate>Mon, 10 Nov 2025 16:32:31 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-58-stremio-vr-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #57 – Apple TV (tvOS), Android TV and Android Mobile Apps Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-57-apple-tv-tvos-android-tv-and-android-mobile-apps-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Mon, 08 Sep 2025 13:49:04 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-52-android-mobile-and-android-tv-beta-update/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #51 – Stremio VR Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-51-stremio-vr-updated/</link>
-      <description><![CDATA[We made a huge update to the Stremio VR app! Let’s see what changed: Movable screen (on a sphere area around the user, so it can also be above and tilted down towards the user, after laying down you would need to keep “Meta” button pressed to recenter as you would probably go outside safe…]]></description>
-      <pubDate>Mon, 08 Sep 2025 12:50:36 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-51-stremio-vr-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-2.png" length="10000" type="image/png" />
     </item>
     
   </channel>
