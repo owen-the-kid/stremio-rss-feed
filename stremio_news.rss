@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Nov 2025 01:47:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 01:43:50 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #59 – Android Mobile Update and tvOS TestFlight</title>
+      <link>https://blog.stremio.com/stremio-tech-update-59-android-mobile-update-and-tvos-beta/</link>
+      <description><![CDATA[We released a new version of the android mobile app (v2.1.1) Let’s see what changed: Fixed crash when opening One Pace addon Added support to open .torrent files Added support to open addon manifest from the search bar Added support to open magnet link from the search bar Added guest login Added setting for exprimental…]]></description>
+      <pubDate>Fri, 14 Nov 2025 15:26:32 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-59-android-mobile-update-and-tvos-beta/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-2.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #58 – Stremio VR Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-58-stremio-vr-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Wed, 10 Sep 2025 12:31:38 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-for-lg-tv-is-back-in-the-2024-2025-lg-tv-store/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/11/samsung-2.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #52 – Android Mobile and Android TV Beta Update</title>
-      <link>https://blog.stremio.com/stremio-tech-update-52-android-mobile-and-android-tv-beta-update/</link>
-      <description><![CDATA[We just released Stremio Android Mobile Beta v2.0.0-rc.15 and Stremio Android TV Beta v1.6.16 Let’s see what changed: Android TV Fixed moving to next episode after exiting the player Android Mobile Fixed crash after login / startup Fixed autoplay on pressing poster from continue watching section Added support for TV navigation For those that want…]]></description>
-      <pubDate>Mon, 08 Sep 2025 13:49:04 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-52-android-mobile-and-android-tv-beta-update/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
     </item>
     
   </channel>
