@@ -5,8 +5,62 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Nov 2025 01:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 01:46:10 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Mega Update! Stremio v5 for MacOS, Usenet & Archive Streaming, Like & Loved Buttons and More!</title>
+      <link>https://blog.stremio.com/stremio-mega-update-stremio-v5-for-macos-usenet-archive-streaming-like-loved-buttons-and-more/</link>
+      <description><![CDATA[Good news, everyone! Today we have a huge update! So big in fact that we are splitting it into numerous blog posts. Pick your destiny: Stremio v5 MacOS Release! (with ARM support) and Stremio Lite TestFlight for MacOS: https://blog.stremio.com/stremio-v5-macos-release!-(with-arm-support)/ Stremio New Streaming Sources (Usenet, FTP, RAR, ZIP, 7ZIP, TGZ, TAR): https://blog.stremio.com/stremio-new-stream-sources-usenet-rar-zip-ftp-and-more/ Stremio Liked and Loved…]]></description>
+      <pubDate>Thu, 27 Nov 2025 17:38:44 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-mega-update-stremio-v5-for-macos-usenet-archive-streaming-like-loved-buttons-and-more/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/mega-update.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Stremio New Stream Sources (Usenet, RAR, ZIP, FTP and more)</title>
+      <link>https://blog.stremio.com/stremio-new-stream-sources-usenet-rar-zip-ftp-and-more/</link>
+      <description><![CDATA[At Stremio we pride ourselves in working with streaming (as the name suggests), so today we present to you MANY new streaming capabilities. As of right now these have only been implemented in Stremio v5 for desktop with plans on gradually releasing it to other platforms too. Note: All these new streaming capabilities are still…]]></description>
+      <pubDate>Thu, 27 Nov 2025 17:37:03 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-new-stream-sources-usenet-rar-zip-ftp-and-more/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/usenet.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Stremio Like and Love Buttons</title>
+      <link>https://blog.stremio.com/stremio-like-and-love-buttons/</link>
+      <description><![CDATA[We’ve been adding like and love buttons for some time in our apps. We’ve been waiting for these buttons to be implemented in more platforms before we release them, and today is the day! While we have many more plans for these new features, as of now you can install the “Stremio Liked” and “Stremio…]]></description>
+      <pubDate>Thu, 27 Nov 2025 17:36:48 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-like-and-love-buttons/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/like-or-love.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Stremio Android TV and Android Mobile Update</title>
+      <link>https://blog.stremio.com/stremio-android-tv-and-android-mobile-update/</link>
+      <description><![CDATA[We released a minor update for Android TV (v1.8.0) and Android Mobile (v2.1.4) today, let’s see what changed! Android TV:– Added foreground service to fix issue with the external player torrent playback– Various small UI changes Android Mobile:– Fixed an issue with some deeplinks crashing the app– Fixed an issue with opening addons manifests This…]]></description>
+      <pubDate>Thu, 27 Nov 2025 17:36:29 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-android-tv-and-android-mobile-update/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Stremio v5 / Web Updated</title>
+      <link>https://blog.stremio.com/stremio-v5-web-updated/</link>
+      <description><![CDATA[We just updated Stremio Web (which includes the UI for Stremio v5 too), here’s what changed: Added translatable error messages on the Intro page Player: Add support for media play/pause keys MetaPreview: hide ActionButton label on mobile Player: Add media session support Calendar: Poster visibility improvements App: Add shortcuts modal Settings: Add player video mode…]]></description>
+      <pubDate>Thu, 27 Nov 2025 17:36:13 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-v5-web-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Stremio v5 MacOS Release! (with ARM support)</title>
+      <link>https://blog.stremio.com/stremio-v5-macos-release-with-arm-support/</link>
+      <description><![CDATA[We just released Stremio v5 for MacOS with separate ARM and Intel support! We have been working on this for a very long time… and it’s finally here! You can download it now from our downloads page. (use this link to bypass caching until it expires) In a strange twist of events, we also released…]]></description>
+      <pubDate>Thu, 27 Nov 2025 17:35:53 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-v5-macos-release-with-arm-support/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/macOS-release-2.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #59 – Android Mobile Update and tvOS TestFlight</title>
       <link>https://blog.stremio.com/stremio-tech-update-59-android-mobile-update-and-tvos-beta/</link>
@@ -41,60 +95,6 @@
       <pubDate>Wed, 29 Oct 2025 20:18:46 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-lite-for-apple-tv-tvos-is-now-in-app-store/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/tvOS-release.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #56 – New Android Mobile and Android TV Apps Released</title>
-      <link>https://blog.stremio.com/stremio-tech-update-56-new-android-mobile-and-android-tv-apps-released/</link>
-      <description><![CDATA[We have been running a beta for the Android Mobile and Android TV apps for some time, and we have (finally) moved them to production so all our users can enjoy them! We’re thrilled to present to you our all-new Stremio mobile app, designed from the ground up for speed, simplicity and the best user…]]></description>
-      <pubDate>Wed, 29 Oct 2025 13:52:27 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-56-new-android-mobile-and-android-tv-apps-released/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/09/Adobe_Express_20230922_1439320_1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #55 – Android Mobile Beta Update</title>
-      <link>https://blog.stremio.com/stremio-tech-update-55-android-mobile-beta-update/</link>
-      <description><![CDATA[We just released Stremio Android Mobile Beta v2.0.0-rc.18 Let’s see what changed: Fixed HDR in VLC Fixed seeking to the start Fixed tap gesture on the seekbar Do not show player UI when using the phone’s volume buttons For those that want to join the Beta for these apps, you can join from the “Stremio”…]]></description>
-      <pubDate>Thu, 16 Oct 2025 09:34:51 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-55-android-mobile-beta-update/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Testers Needed for Stremio Lite (iOS)</title>
-      <link>https://blog.stremio.com/testers-needed-for-stremio-lite-ios/</link>
-      <description><![CDATA[Warning: There is a known bug that causes a crash on app start for users of iOS 26 Beta 1 (23A5260n), to fix this the user would need to leave the iOS beta channel. We have made a big update to the Stremio Lite app and have released it for TestFlight only until we can…]]></description>
-      <pubDate>Wed, 15 Oct 2025 09:59:19 GMT</pubDate>
-      <guid>https://blog.stremio.com/testers-needed-for-stremio-lite-ios/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/08/iOS-release.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #54 – Android Mobile and Android TV Beta Update</title>
-      <link>https://blog.stremio.com/stremio-tech-update-54-android-mobile-and-android-tv-beta-update/</link>
-      <description><![CDATA[We just released Stremio Android Mobile Beta v2.0.0-rc.17 and Stremio Android TV Beta v1.7.0 Let’s see what changed: Android Mobile Fixed an issue where the subtitles menu was behind Android navigation bar Added notification for addon parsing errors Added notification for adding/removing items from library Android TV Fixed VLC issues with square videos Fixed an…]]></description>
-      <pubDate>Fri, 03 Oct 2025 15:05:07 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-54-android-mobile-and-android-tv-beta-update/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #53 – Android Mobile and Android TV Beta Update</title>
-      <link>https://blog.stremio.com/stremio-tech-update-53-android-mobile-and-android-tv-beta-update/</link>
-      <description><![CDATA[We just released Stremio Android Mobile Beta v2.0.0-rc.16 and Stremio Android TV Beta v1.6.17 Let’s see what changed: Android Mobile Fixed an issue with installing addons from addon configuration pages Fixed VLC crash after the app is refreshed Fixed a scroll bug Fixed an issue where the app was crashing when VLC was returning an…]]></description>
-      <pubDate>Wed, 17 Sep 2025 15:57:21 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-53-android-mobile-and-android-tv-beta-update/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio for LG TV is Back in the 2024 / 2025 LG TV Store</title>
-      <link>https://blog.stremio.com/stremio-for-lg-tv-is-back-in-the-2024-2025-lg-tv-store/</link>
-      <description><![CDATA[A few weeks ago Stremio was removed from the LG TV store for 2024 and 2025 models due to an app bug found by the LG review team. Since that time we have been working on fixing this issue, and with today’s v1.8.3 release on LG TV we believe the app should show again in…]]></description>
-      <pubDate>Wed, 10 Sep 2025 12:31:38 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-for-lg-tv-is-back-in-the-2024-2025-lg-tv-store/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/11/samsung-2.png" length="10000" type="image/png" />
     </item>
     
   </channel>
