@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Nov 2025 01:46:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 01:45:54 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #60 – Stremio v5 for MacOS & Stremio Web Update</title>
+      <link>https://blog.stremio.com/stremio-tech-update-60-stremio-v5-for-macos-stremio-web-update/</link>
+      <description><![CDATA[We released a new version of Stremio v5 for MacOS to fix an issue with the screensaver showing during playback, we also updated Stremio Web to fix opening external player with https streams. If you are already using Stremio v5 for MacOS the app should auto-update, otherwise you can download the new version from the…]]></description>
+      <pubDate>Fri, 28 Nov 2025 16:23:18 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-60-stremio-v5-for-macos-stremio-web-update/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Mega Update! Stremio v5 for MacOS, Usenet & Archive Streaming, Like & Loved Buttons and More!</title>
       <link>https://blog.stremio.com/stremio-mega-update-stremio-v5-for-macos-usenet-archive-streaming-like-loved-buttons-and-more/</link>
@@ -86,15 +95,6 @@
       <pubDate>Wed, 05 Nov 2025 08:14:29 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-57-apple-tv-tvos-android-tv-and-android-mobile-apps-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Lite for Apple TV (tvOS) is Now in App Store</title>
-      <link>https://blog.stremio.com/stremio-lite-for-apple-tv-tvos-is-now-in-app-store/</link>
-      <description><![CDATA[We just released the highly anticipated Stremio Lite for Apple TV (tvOS), you can install it at this App Store link. As this is our first release for this device, please send any bug reports to this link. Some screenshots of the app: It make take an hour or two for the app to show…]]></description>
-      <pubDate>Wed, 29 Oct 2025 20:18:46 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-lite-for-apple-tv-tvos-is-now-in-app-store/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/tvOS-release.png" length="10000" type="image/png" />
     </item>
     
   </channel>
