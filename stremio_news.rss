@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Dec 2025 01:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 01:51:08 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #61 – Apple TV (tvOS) App Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-61-apple-tv-tvos-app-updated/</link>
+      <description><![CDATA[We just released Stremio for Apple TV (tvOS) v1.3.2, here’s what changed: Redesigned buttons on metadata page Fixed loading an empty metadata page in some cases Fixed crash on board when navigating Fixed a memory leak Fixed account data not syncing on app launch Fixed crash on QR code page with tvOS 17.0 beta Stay…]]></description>
+      <pubDate>Wed, 03 Dec 2025 17:16:14 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-61-apple-tv-tvos-app-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #60 – Stremio v5 for MacOS & Stremio Web Update</title>
       <link>https://blog.stremio.com/stremio-tech-update-60-stremio-v5-for-macos-stremio-web-update/</link>
@@ -86,15 +95,6 @@
       <pubDate>Mon, 10 Nov 2025 16:32:31 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-58-stremio-vr-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #57 – Apple TV (tvOS), Android TV and Android Mobile Apps Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-57-apple-tv-tvos-android-tv-and-android-mobile-apps-updated/</link>
-      <description><![CDATA[We just released new versions of the Apple TV (tvOS), Android TV and Android mobile apps. Apple TV changes: fixed playback of live videos added external player support for Infuse fixed embedded subtitles showing even when disabled from settings fixed adding to library from dropdown menu fixes navigation bug where focus would get locked to…]]></description>
-      <pubDate>Wed, 05 Nov 2025 08:14:29 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-57-apple-tv-tvos-android-tv-and-android-mobile-apps-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
     </item>
     
   </channel>
