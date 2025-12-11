@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Dec 2025 01:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 01:54:50 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #63 – Stremio VR Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-63-stremio-vr-updated/</link>
+      <description><![CDATA[We just updated the Stremio VR app for Meta Quest devices. Here’s what changed: Fixed an issue where the streams list would not load Fixed the order of addons (to be the same as install order) Fixed an issue where the app could freeze when opening a metadata page Fixed an issue with the HDR…]]></description>
+      <pubDate>Wed, 10 Dec 2025 15:31:19 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-63-stremio-vr-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-2.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #62 – Stremio Lite for MacOS Release</title>
       <link>https://blog.stremio.com/stremio-tech-update-62-stremio-lite-for-macos-release/</link>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 27 Nov 2025 17:35:53 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-v5-macos-release-with-arm-support/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/macOS-release-2.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #59 – Android Mobile Update and tvOS TestFlight</title>
-      <link>https://blog.stremio.com/stremio-tech-update-59-android-mobile-update-and-tvos-beta/</link>
-      <description><![CDATA[We released a new version of the android mobile app (v2.1.1) Let’s see what changed: Fixed crash when opening One Pace addon Added support to open .torrent files Added support to open addon manifest from the search bar Added support to open magnet link from the search bar Added guest login Added setting for exprimental…]]></description>
-      <pubDate>Fri, 14 Nov 2025 15:26:32 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-59-android-mobile-update-and-tvos-beta/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-2.png" length="10000" type="image/png" />
     </item>
     
   </channel>
