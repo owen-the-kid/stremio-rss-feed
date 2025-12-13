@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Dec 2025 01:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 01:47:48 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Lite Released for TVs with Vidaa OS! (Hisense, Toshiba, Sharp, etc)</title>
+      <link>https://blog.stremio.com/stremio-lite-released-for-tvs-with-vidaa-os-hisense-toshiba-sharp-etc/</link>
+      <description><![CDATA[Stremio Lite is now available for TVs running Vidaa OS, this includes brands such as Hisense, Toshiba, Sharp, AKAI, etc. This is a global release and there is no minimum model year for TVs running Vidaa, as long as you have the latest OS updates, you should be able to find the app in the…]]></description>
+      <pubDate>Fri, 12 Dec 2025 10:51:28 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-lite-released-for-tvs-with-vidaa-os-hisense-toshiba-sharp-etc/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/04/hisense-tv-release.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #63 – Stremio VR Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-63-stremio-vr-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 27 Nov 2025 17:36:13 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-v5-web-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio v5 MacOS Release! (with ARM support)</title>
-      <link>https://blog.stremio.com/stremio-v5-macos-release-with-arm-support/</link>
-      <description><![CDATA[We just released Stremio v5 for MacOS with separate ARM and Intel support! We have been working on this for a very long time… and it’s finally here! You can download it now from our downloads page. (use this link to bypass caching until it expires) In a strange twist of events, we also released…]]></description>
-      <pubDate>Thu, 27 Nov 2025 17:35:53 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-v5-macos-release-with-arm-support/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/macOS-release-2.png" length="10000" type="image/png" />
     </item>
     
   </channel>
