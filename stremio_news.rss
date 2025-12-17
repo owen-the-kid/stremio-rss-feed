@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Dec 2025 01:54:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 01:49:54 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio is Now Available on Fire OS Store!</title>
+      <link>https://blog.stremio.com/stremio-is-now-available-on-fire-os-store/</link>
+      <description><![CDATA[After removing the “Stremio” scam app from Amazon Store recently due to trademark infringement, you can now find the official Stremio app on FireOS devices in the Amazon App Store! Stremio no longer needs to be sideloaded on any FireOS device anymore and it includes automated updates. Stay tuned as we may still have more…]]></description>
+      <pubDate>Tue, 16 Dec 2025 16:54:53 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-is-now-available-on-fire-os-store/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Lite Released for TVs with Vidaa OS! (Hisense, Toshiba, Sharp, etc)</title>
       <link>https://blog.stremio.com/stremio-lite-released-for-tvs-with-vidaa-os-hisense-toshiba-sharp-etc/</link>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 27 Nov 2025 17:36:29 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-android-tv-and-android-mobile-update/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio v5 / Web Updated</title>
-      <link>https://blog.stremio.com/stremio-v5-web-updated/</link>
-      <description><![CDATA[We just updated Stremio Web (which includes the UI for Stremio v5 too), here’s what changed: Added translatable error messages on the Intro page Player: Add support for media play/pause keys MetaPreview: hide ActionButton label on mobile Player: Add media session support Calendar: Poster visibility improvements App: Add shortcuts modal Settings: Add player video mode…]]></description>
-      <pubDate>Thu, 27 Nov 2025 17:36:13 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-v5-web-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5.png" length="10000" type="image/png" />
     </item>
     
   </channel>
