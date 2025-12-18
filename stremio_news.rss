@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Dec 2025 01:49:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 01:50:16 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #64 – Stremio Android TV Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-64-stremio-android-tv-updated/</link>
+      <description><![CDATA[We updated the Stremio Android TV app (v1.8.1) to fix an issue with some Android vendors where users could not log in or see posters, but instead would see an error saying “Failed to create cache directory for temporary files” As we have changed the cache directory to solve this issue, all users would need…]]></description>
+      <pubDate>Wed, 17 Dec 2025 14:51:26 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-64-stremio-android-tv-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio is Now Available on Fire OS Store!</title>
       <link>https://blog.stremio.com/stremio-is-now-available-on-fire-os-store/</link>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 27 Nov 2025 17:36:48 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-like-and-love-buttons/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/like-or-love.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Android TV and Android Mobile Update</title>
-      <link>https://blog.stremio.com/stremio-android-tv-and-android-mobile-update/</link>
-      <description><![CDATA[We released a minor update for Android TV (v1.8.0) and Android Mobile (v2.1.4) today, let’s see what changed! Android TV:– Added foreground service to fix issue with the external player torrent playback– Various small UI changes Android Mobile:– Fixed an issue with some deeplinks crashing the app– Fixed an issue with opening addons manifests This…]]></description>
-      <pubDate>Thu, 27 Nov 2025 17:36:29 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-android-tv-and-android-mobile-update/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
     </item>
     
   </channel>
