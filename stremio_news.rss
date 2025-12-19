@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2025 01:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 01:53:42 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #65 – Stremio 5 Update for MacOS and Stremio 5 Release for Windows ARM</title>
+      <link>https://blog.stremio.com/stremio-tech-update-65-stremio-5-update-for-macos-and-stremio-5-release-for-windows-arm/</link>
+      <description><![CDATA[We updated the Stremio v5 app for MacOS with the following changes: new dock icon allow the screen saver during video pause We also release Stremio v5 for Windows ARM! If you want to download Stremio v5 for Windows ARM devices, you can do so from this link until the cache expires. We may or…]]></description>
+      <pubDate>Thu, 18 Dec 2025 16:44:56 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-65-stremio-5-update-for-macos-and-stremio-5-release-for-windows-arm/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #64 – Stremio Android TV Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-64-stremio-android-tv-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 27 Nov 2025 17:37:03 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-new-stream-sources-usenet-rar-zip-ftp-and-more/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/usenet.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Like and Love Buttons</title>
-      <link>https://blog.stremio.com/stremio-like-and-love-buttons/</link>
-      <description><![CDATA[We’ve been adding like and love buttons for some time in our apps. We’ve been waiting for these buttons to be implemented in more platforms before we release them, and today is the day! While we have many more plans for these new features, as of now you can install the “Stremio Liked” and “Stremio…]]></description>
-      <pubDate>Thu, 27 Nov 2025 17:36:48 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-like-and-love-buttons/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/like-or-love.png" length="10000" type="image/png" />
     </item>
     
   </channel>
