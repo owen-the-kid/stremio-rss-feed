@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Dec 2025 01:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 01:52:15 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #66 – Stremio Lite for Apple TV (tvOS) Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-66-stremio-lite-for-apple-tv-tvos-updated/</link>
+      <description><![CDATA[We updated the Stremio Lite app AppleTV (tvOS). Here’s what changed: Added Trakt login button Updated KSPlayer version Fixed Trakt events not being sent Added webp image decoding on older tvOS Retain previously selected TV show season Added subtitle styling settings Changed the style of TV show episodes to conform to our current design Added…]]></description>
+      <pubDate>Fri, 26 Dec 2025 15:42:49 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-66-stremio-lite-for-apple-tv-tvos-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/tvOS-release.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio VR Released to Pico VR Devices</title>
       <link>https://blog.stremio.com/stremio-vr-released-to-pico-vr-devices/</link>
@@ -86,15 +95,6 @@
       <pubDate>Fri, 28 Nov 2025 16:23:18 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-60-stremio-v5-for-macos-stremio-web-update/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Mega Update! Stremio v5 for MacOS, Usenet & Archive Streaming, Like & Loved Buttons and More!</title>
-      <link>https://blog.stremio.com/stremio-mega-update-stremio-v5-for-macos-usenet-archive-streaming-like-loved-buttons-and-more/</link>
-      <description><![CDATA[Good news, everyone! Today we have a huge update! So big in fact that we are splitting it into numerous blog posts. Pick your destiny: Stremio v5 MacOS Release! (with ARM support) and Stremio Lite TestFlight for MacOS: https://blog.stremio.com/stremio-v5-macos-release!-(with-arm-support)/ Stremio New Streaming Sources (Usenet, FTP, RAR, ZIP, 7ZIP, TGZ, TAR): https://blog.stremio.com/stremio-new-stream-sources-usenet-rar-zip-ftp-and-more/ Stremio Liked and Loved…]]></description>
-      <pubDate>Thu, 27 Nov 2025 17:38:44 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-mega-update-stremio-v5-for-macos-usenet-archive-streaming-like-loved-buttons-and-more/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/mega-update.png" length="10000" type="image/png" />
     </item>
     
   </channel>
