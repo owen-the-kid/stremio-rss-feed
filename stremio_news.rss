@@ -5,8 +5,26 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Dec 2025 01:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 02:05:37 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #67 – Stremio Lite for iOS/MacOS Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-67-stremio-lite-for-ios-macos-updated/</link>
+      <description><![CDATA[We updated the Stremio Lite app for iOS and MacOS. Here’s what changed: Added Trakt login button Updated KSPlayer version Fixed Trakt events not being sent iOS specific: update app icon Retain previously selected TV show season Added subtitle styling settings Fixed trash bin icon on settings page for long Stremio server urls Changed the…]]></description>
+      <pubDate>Sat, 27 Dec 2025 08:53:49 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-67-stremio-lite-for-ios-macos-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Stremio 2D Released to Meta Quest!</title>
+      <link>https://blog.stremio.com/stremio-2d-released-to-meta-quest/</link>
+      <description><![CDATA[While we already released “Stremio VR” for Meta Quest back in April 2025, out of popular demand we also released “Stremio 2D” now for Meta Quest and it’s now available in the Meta Horizon Store! This is a windowed app that can be used for multi-tasking on the Meta Quest device. Here are some screenshots…]]></description>
+      <pubDate>Sat, 27 Dec 2025 08:40:19 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-2d-released-to-meta-quest/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/12/2d-MQ.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #66 – Stremio Lite for Apple TV (tvOS) Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-66-stremio-lite-for-apple-tv-tvos-updated/</link>
@@ -77,24 +95,6 @@
       <pubDate>Thu, 04 Dec 2025 12:41:38 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-62-stremio-lite-for-macos-release/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #61 – Apple TV (tvOS) App Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-61-apple-tv-tvos-app-updated/</link>
-      <description><![CDATA[We just released Stremio for Apple TV (tvOS) v1.3.2, here’s what changed: Redesigned buttons on metadata page Fixed loading an empty metadata page in some cases Fixed crash on board when navigating Fixed a memory leak Fixed account data not syncing on app launch Fixed crash on QR code page with tvOS 17.0 beta Stay…]]></description>
-      <pubDate>Wed, 03 Dec 2025 17:16:14 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-61-apple-tv-tvos-app-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #60 – Stremio v5 for MacOS & Stremio Web Update</title>
-      <link>https://blog.stremio.com/stremio-tech-update-60-stremio-v5-for-macos-stremio-web-update/</link>
-      <description><![CDATA[We released a new version of Stremio v5 for MacOS to fix an issue with the screensaver showing during playback, we also updated Stremio Web to fix opening external player with https streams. If you are already using Stremio v5 for MacOS the app should auto-update, otherwise you can download the new version from the…]]></description>
-      <pubDate>Fri, 28 Nov 2025 16:23:18 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-60-stremio-v5-for-macos-stremio-web-update/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
     </item>
     
   </channel>
