@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Dec 2025 01:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 02:06:27 GMT</lastBuildDate>
 
+    <item>
+      <title>Happy New Year 2026!</title>
+      <link>https://blog.stremio.com/happy-new-year-2026/</link>
+      <description><![CDATA[Happy new year from the Stremio Team! It’s been an amazing year, as usual with ups and downs, yet always with more awesomeness than sorrow! For most of our team 2025 has passed and gone and we’re already planning for the future, while some of you may still be counting down the clock. We just…]]></description>
+      <pubDate>Wed, 31 Dec 2025 21:53:24 GMT</pubDate>
+      <guid>https://blog.stremio.com/happy-new-year-2026/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/12/xmas-post@2x.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #68 – Stremio VR Updated on Meta Quest</title>
       <link>https://blog.stremio.com/stremio-tech-update-68-stremio-vr-updated-on-meta-quest/</link>
@@ -86,15 +95,6 @@
       <pubDate>Fri, 12 Dec 2025 10:51:28 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-lite-released-for-tvs-with-vidaa-os-hisense-toshiba-sharp-etc/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/04/hisense-tv-release.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #63 – Stremio VR Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-63-stremio-vr-updated/</link>
-      <description><![CDATA[We just updated the Stremio VR app for Meta Quest devices. Here’s what changed: Fixed an issue where the streams list would not load Fixed the order of addons (to be the same as install order) Fixed an issue where the app could freeze when opening a metadata page Fixed an issue with the HDR…]]></description>
-      <pubDate>Wed, 10 Dec 2025 15:31:19 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-63-stremio-vr-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-2.png" length="10000" type="image/png" />
     </item>
     
   </channel>
