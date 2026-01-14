@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jan 2026 01:55:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 02:02:22 GMT</lastBuildDate>
 
+    <item>
+      <title>We’re Back on Google Play</title>
+      <link>https://blog.stremio.com/were-back-on-google-play/</link>
+      <description><![CDATA[Stremio is now available on Google Play: https://play.google.com/store/apps/details?id=com.stremio.one The app was suspended from Google Play for 19 days (since the 25th of December), and now we’re back! The android app continues to use the same app ID, so if you installed it from Google Play store before the December suspension, you will continue to get…]]></description>
+      <pubDate>Tue, 13 Jan 2026 12:12:40 GMT</pubDate>
+      <guid>https://blog.stremio.com/were-back-on-google-play/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Happy New Year 2026!</title>
       <link>https://blog.stremio.com/happy-new-year-2026/</link>
@@ -86,15 +95,6 @@
       <pubDate>Tue, 16 Dec 2025 16:54:53 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-is-now-available-on-fire-os-store/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Lite Released for TVs with Vidaa OS! (Hisense, Toshiba, Sharp, etc)</title>
-      <link>https://blog.stremio.com/stremio-lite-released-for-tvs-with-vidaa-os-hisense-toshiba-sharp-etc/</link>
-      <description><![CDATA[Stremio Lite is now available for TVs running Vidaa OS, this includes brands such as Hisense, Toshiba, Sharp, AKAI, etc. This is a global release and there is no minimum model year for TVs running Vidaa, as long as you have the latest OS updates, you should be able to find the app in the…]]></description>
-      <pubDate>Fri, 12 Dec 2025 10:51:28 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-lite-released-for-tvs-with-vidaa-os-hisense-toshiba-sharp-etc/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/04/hisense-tv-release.png" length="10000" type="image/png" />
     </item>
     
   </channel>
