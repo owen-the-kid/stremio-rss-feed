@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Feb 2026 02:32:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 02:29:39 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio (fully featured) Sideloadable IPA Release for iOS, iPadOS, Apple TV (tvOS)</title>
+      <link>https://blog.stremio.com/stremio-fully-featured-sideloadable-ipa-release-for-ios-ipados-apple-tv-tvos/</link>
+      <description><![CDATA[While we are still waiting for Apple to answer in order to see if/when we will get back in Apple’s App Store with Stremio Lite, we decided to release the IPA files for Stremio (all features included, this supports all Android features, not just what Stremio Lite supported) officially from our downloads page. You can…]]></description>
+      <pubDate>Mon, 02 Feb 2026 15:38:51 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-fully-featured-sideloadable-ipa-release-for-ios-ipados-apple-tv-tvos/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/08/iOS-release.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #69 – Stremio v5 and Stremio Web Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-69-stremio-v5-and-stremio-web-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 18 Dec 2025 16:44:56 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-65-stremio-5-update-for-macos-and-stremio-5-release-for-windows-arm/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #64 – Stremio Android TV Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-64-stremio-android-tv-updated/</link>
-      <description><![CDATA[We updated the Stremio Android TV app (v1.8.1) to fix an issue with some Android vendors where users could not log in or see posters, but instead would see an error saying “Failed to create cache directory for temporary files” As we have changed the cache directory to solve this issue, all users would need…]]></description>
-      <pubDate>Wed, 17 Dec 2025 14:51:26 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-64-stremio-android-tv-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
     </item>
     
   </channel>
