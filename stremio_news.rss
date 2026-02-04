@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Feb 2026 02:29:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 02:24:05 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #70 – Stremio Android TV Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-70-stremio-android-tv-updated/</link>
+      <description><![CDATA[We just released Stremio for Android TV v1.9.1 with the following changes: Updated player UI/UX Added a setting to display device clock on player Added an option to hide other languages from subtitles menu Added a setting to show title under catalog items Added internal player versions in settings about section Fixed missing background and…]]></description>
+      <pubDate>Tue, 03 Feb 2026 12:37:09 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-70-stremio-android-tv-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio (fully featured) Sideloadable IPA Release for iOS, iPadOS, Apple TV (tvOS)</title>
       <link>https://blog.stremio.com/stremio-fully-featured-sideloadable-ipa-release-for-ios-ipados-apple-tv-tvos/</link>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 25 Dec 2025 07:40:34 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-vr-released-to-pico-vr-devices/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/12/VR-pico.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #65 – Stremio 5 Update for MacOS and Stremio 5 Release for Windows ARM</title>
-      <link>https://blog.stremio.com/stremio-tech-update-65-stremio-5-update-for-macos-and-stremio-5-release-for-windows-arm/</link>
-      <description><![CDATA[We updated the Stremio v5 app for MacOS with the following changes: new dock icon allow the screen saver during video pause We also release Stremio v5 for Windows ARM! If you want to download Stremio v5 for Windows ARM devices, you can do so from this link until the cache expires. We may or…]]></description>
-      <pubDate>Thu, 18 Dec 2025 16:44:56 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-65-stremio-5-update-for-macos-and-stremio-5-release-for-windows-arm/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
     </item>
     
   </channel>
