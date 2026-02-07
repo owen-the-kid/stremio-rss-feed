@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Feb 2026 02:26:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 02:21:47 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio on MacOS – Notice of Issues</title>
+      <link>https://blog.stremio.com/stremio-on-macos-notice-of-issues/</link>
+      <description><![CDATA[Due to a misunderstanding with Apple, the MacOS app signing certificate has been revoked which will cause an error message to show for users when attempting to open the Stremio MacOS app. We are currently in the process of appealing Apple’s actions and expect this issue to be resolved within 1-2 weeks. Contrary to the…]]></description>
+      <pubDate>Fri, 06 Feb 2026 14:16:20 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-on-macos-notice-of-issues/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/macOS-release-2.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #70 – Stremio Android TV Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-70-stremio-android-tv-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Fri, 26 Dec 2025 15:42:49 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-66-stremio-lite-for-apple-tv-tvos-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/tvOS-release.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio VR Released to Pico VR Devices</title>
-      <link>https://blog.stremio.com/stremio-vr-released-to-pico-vr-devices/</link>
-      <description><![CDATA[We just released our Stremio VR app worldwide (with the exception of China) to the Pico Content Store. Our VR app should now be visible on the following devices: Pico 4 Ultra Pico 4 Pro Pico 4 Pico Neo3 (all future Pico devices) We have also released the “Stremio 2D” app, our android mobile windowed…]]></description>
-      <pubDate>Thu, 25 Dec 2025 07:40:34 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-vr-released-to-pico-vr-devices/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/12/VR-pico.png" length="10000" type="image/png" />
     </item>
     
   </channel>
