@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Feb 2026 02:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 02:48:27 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #71 – Android TV Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-71-android-tv-updated/</link>
+      <description><![CDATA[We just released v1.9.4 for Android TV, here’s what changed: Fixed disabling of subtitles not respected Fixed subtitles font size Fixed delays not being reset after changing tracks Fixed player type not being remembered Fixed images of catalogs not loading on old devices Fixed readability of tracks menus items Fixed incorrect time when opening in…]]></description>
+      <pubDate>Sat, 07 Feb 2026 10:28:50 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-71-android-tv-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio on MacOS – Notice of Issues</title>
       <link>https://blog.stremio.com/stremio-on-macos-notice-of-issues/</link>
@@ -86,15 +95,6 @@
       <pubDate>Sat, 27 Dec 2025 08:40:19 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-2d-released-to-meta-quest/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/12/2d-MQ.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #66 – Stremio Lite for Apple TV (tvOS) Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-66-stremio-lite-for-apple-tv-tvos-updated/</link>
-      <description><![CDATA[We updated the Stremio Lite app AppleTV (tvOS). Here’s what changed: Added Trakt login button Updated KSPlayer version Fixed Trakt events not being sent Added webp image decoding on older tvOS Retain previously selected TV show season Added subtitle styling settings Changed the style of TV show episodes to conform to our current design Added…]]></description>
-      <pubDate>Fri, 26 Dec 2025 15:42:49 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-66-stremio-lite-for-apple-tv-tvos-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/tvOS-release.png" length="10000" type="image/png" />
     </item>
     
   </channel>
