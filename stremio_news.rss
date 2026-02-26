@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 02:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 02:25:26 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio on MacOS – Issues Are Now Resolved!</title>
+      <link>https://blog.stremio.com/stremio-on-macos-issues-are-now-resolved/</link>
+      <description><![CDATA[We have resolved the MacOS app certificate issues, if you wish to download the update from the official website you should use this downloads page link until the website cache expires for the new links to show. We have signed the Stremio v5 and Stremio v4 apps, we will also update Stremio Service in the…]]></description>
+      <pubDate>Wed, 25 Feb 2026 15:39:24 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-on-macos-issues-are-now-resolved/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/macOS-release-2.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #71 – Android TV Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-71-android-tv-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Sat, 27 Dec 2025 08:53:49 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-67-stremio-lite-for-ios-macos-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio 2D Released to Meta Quest!</title>
-      <link>https://blog.stremio.com/stremio-2d-released-to-meta-quest/</link>
-      <description><![CDATA[While we already released “Stremio VR” for Meta Quest back in April 2025, out of popular demand we also released “Stremio 2D” now for Meta Quest and it’s now available in the Meta Horizon Store! This is a windowed app that can be used for multi-tasking on the Meta Quest device. Here are some screenshots…]]></description>
-      <pubDate>Sat, 27 Dec 2025 08:40:19 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-2d-released-to-meta-quest/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/12/2d-MQ.png" length="10000" type="image/png" />
     </item>
     
   </channel>
