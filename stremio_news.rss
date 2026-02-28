@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Feb 2026 02:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 02:07:24 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #72 – Android TV Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-72-android-tv-updated/</link>
+      <description><![CDATA[We just released v1.9.8 of Stremio Android TV app to the Stable channel and v1.9.10 for the Beta channel. You can join the beta on your Android phone from the Stremio app page on Google Play and it will give you the option to update to Beta on the Android TV devices too. Stable v1.9.8…]]></description>
+      <pubDate>Fri, 27 Feb 2026 13:56:17 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-72-android-tv-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio on MacOS – Issues Are Now Resolved!</title>
       <link>https://blog.stremio.com/stremio-on-macos-issues-are-now-resolved/</link>
@@ -86,15 +95,6 @@
       <pubDate>Mon, 29 Dec 2025 12:42:58 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-68-stremio-vr-updated-on-meta-quest/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #67 – Stremio Lite for iOS/MacOS Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-67-stremio-lite-for-ios-macos-updated/</link>
-      <description><![CDATA[We updated the Stremio Lite app for iOS and MacOS. Here’s what changed: Added Trakt login button Updated KSPlayer version Fixed Trakt events not being sent iOS specific: update app icon Retain previously selected TV show season Added subtitle styling settings Fixed trash bin icon on settings page for long Stremio server urls Changed the…]]></description>
-      <pubDate>Sat, 27 Dec 2025 08:53:49 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-67-stremio-lite-for-ios-macos-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
     </item>
     
   </channel>
