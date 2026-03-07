@@ -5,8 +5,26 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 02:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 02:10:53 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #73 – Stremio v5 and Stremio Web Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-73-stremio-v5-and-stremio-web-updated/</link>
+      <description><![CDATA[We released Stremio Web v5.0.0-beta.31, here’s what changed: Translation improvements Library items behavior improvements Popup security improvements PWA styles improvements for iOS devices Copy Download URL (magnet link) visibility fix (was not working without the server running) Improve device detection for external player usage Add Infuse (macOS & iOS) & Vidhub (iOS) as external player…]]></description>
+      <pubDate>Fri, 06 Mar 2026 16:59:09 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-73-stremio-v5-and-stremio-web-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>MacOS Apps Updated</title>
+      <link>https://blog.stremio.com/macos-apps-updated/</link>
+      <description><![CDATA[We released new versions of the following apps that include the new code signing certificate for MacOS:– Stremio v5 (we also managed to reduce the required MacOS version to run this app)– Stremio Service– Stremio v4.4 (High Sierra and up)– Stremio v4.4 (El Capitan – Sierra) The “Stremio Native” app for MacOS is still not…]]></description>
+      <pubDate>Fri, 06 Mar 2026 16:47:16 GMT</pubDate>
+      <guid>https://blog.stremio.com/macos-apps-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/macOS-release-2.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #72 – Android TV Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-72-android-tv-updated/</link>
@@ -77,24 +95,6 @@
       <pubDate>Tue, 13 Jan 2026 12:12:40 GMT</pubDate>
       <guid>https://blog.stremio.com/were-back-on-google-play/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Happy New Year 2026!</title>
-      <link>https://blog.stremio.com/happy-new-year-2026/</link>
-      <description><![CDATA[Happy new year from the Stremio Team! It’s been an amazing year, as usual with ups and downs, yet always with more awesomeness than sorrow! For most of our team 2025 has passed and gone and we’re already planning for the future, while some of you may still be counting down the clock. We just…]]></description>
-      <pubDate>Wed, 31 Dec 2025 21:53:24 GMT</pubDate>
-      <guid>https://blog.stremio.com/happy-new-year-2026/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/12/xmas-post@2x.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #68 – Stremio VR Updated on Meta Quest</title>
-      <link>https://blog.stremio.com/stremio-tech-update-68-stremio-vr-updated-on-meta-quest/</link>
-      <description><![CDATA[We updated the Stremio VR app for Meta Quest, here’s what changed: Fixed addons sync issue where the Home page would sometimes not show all catalogs Fixed YouTube videos playing automatically when selecting the YouTube channel Fixed Discover page issues that would not show any items for some catalogs Fixed a memory leak during playback…]]></description>
-      <pubDate>Mon, 29 Dec 2025 12:42:58 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-68-stremio-vr-updated-on-meta-quest/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
     </item>
     
   </channel>
