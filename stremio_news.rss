@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 02:32:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 02:33:46 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #74 – Stremio Android TV Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-74-stremio-android-tv-updated/</link>
+      <description><![CDATA[We updated the android tv app (v1.9.11), here’s what changed: Fixed Android TV 8 and Android TV 9 app crash after startup Fixed crash with VLC when using external subtitles Performance improvements for video player UI Updated Media3 (ExoPlayer) The update has already been approved on Google Play, for those that do not have Google…]]></description>
+      <pubDate>Wed, 18 Mar 2026 09:52:44 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-74-stremio-android-tv-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-2.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #73 – Stremio v5 and Stremio Web Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-73-stremio-v5-and-stremio-web-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Fri, 23 Jan 2026 14:18:19 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-69-stremio-v5-and-stremio-web-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-2.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>We’re Back on Google Play</title>
-      <link>https://blog.stremio.com/were-back-on-google-play/</link>
-      <description><![CDATA[Stremio is now available on Google Play: https://play.google.com/store/apps/details?id=com.stremio.one The app was suspended from Google Play for 19 days (since the 25th of December), and now we’re back! The android app continues to use the same app ID, so if you installed it from Google Play store before the December suspension, you will continue to get…]]></description>
-      <pubDate>Tue, 13 Jan 2026 12:12:40 GMT</pubDate>
-      <guid>https://blog.stremio.com/were-back-on-google-play/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5.png" length="10000" type="image/png" />
     </item>
     
   </channel>
