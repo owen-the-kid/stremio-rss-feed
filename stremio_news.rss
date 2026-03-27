@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2026 02:39:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 02:41:04 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #76 – Fixed Stremio v4 for High Sierra and Mojave</title>
+      <link>https://blog.stremio.com/stremio-tech-update-76-fixed-stremio-v4-for-high-sierra-and-mojave/</link>
+      <description><![CDATA[We (finally) managed to fix the Stremio v4 build (marked as “High Sierra and up” on the downloads page), to once again work on High Sierra and Mojave MacOS versions. This was a bigger challenge than we expected as we had to rebuild an old version of our app, while the libraries that were initially…]]></description>
+      <pubDate>Thu, 26 Mar 2026 17:13:33 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-76-fixed-stremio-v4-for-high-sierra-and-mojave/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #75 – Stremio Android TV Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-75-stremio-android-tv-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Tue, 03 Feb 2026 12:37:09 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-70-stremio-android-tv-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio (fully featured) Sideloadable IPA Release for iOS, iPadOS, Apple TV (tvOS)</title>
-      <link>https://blog.stremio.com/stremio-fully-featured-sideloadable-ipa-release-for-ios-ipados-apple-tv-tvos/</link>
-      <description><![CDATA[While we are still waiting for Apple to answer in order to see if/when we will get back in Apple’s App Store with Stremio Lite, we decided to release the IPA files for Stremio (all features included, this supports all Android features, not just what Stremio Lite supported) officially from our downloads page. You can…]]></description>
-      <pubDate>Mon, 02 Feb 2026 15:38:51 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-fully-featured-sideloadable-ipa-release-for-ios-ipados-apple-tv-tvos/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/08/iOS-release.png" length="10000" type="image/png" />
     </item>
     
   </channel>
