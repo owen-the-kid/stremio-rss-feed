@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2026 03:25:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 03:31:29 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #77 – Stremio v5 & Stremio Web Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-77-stremio-v5-stremio-web-updated/</link>
+      <description><![CDATA[We just released a new version of Stremio v5 and Stremio Web (v5.0.0-beta.35), here’s what changed: Player: Added media key support (play/pause, next/previous track) Added video scale/zoom property Added HDR badge indicator Added context menu on subtitle choice (download subtitle, copy sub id, copy sub link) Show subtitle name when hovering in subtitle menu Fixed…]]></description>
+      <pubDate>Mon, 27 Apr 2026 15:40:02 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-77-stremio-v5-stremio-web-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #76 – Fixed Stremio v4 for High Sierra and Mojave</title>
       <link>https://blog.stremio.com/stremio-tech-update-76-fixed-stremio-v4-for-high-sierra-and-mojave/</link>
@@ -86,15 +95,6 @@
       <pubDate>Fri, 06 Feb 2026 14:16:20 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-on-macos-notice-of-issues/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/macOS-release-2.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #70 – Stremio Android TV Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-70-stremio-android-tv-updated/</link>
-      <description><![CDATA[We just released Stremio for Android TV v1.9.1 with the following changes: Updated player UI/UX Added a setting to display device clock on player Added an option to hide other languages from subtitles menu Added a setting to show title under catalog items Added internal player versions in settings about section Fixed missing background and…]]></description>
-      <pubDate>Tue, 03 Feb 2026 12:37:09 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-70-stremio-android-tv-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1.png" length="10000" type="image/png" />
     </item>
     
   </channel>
