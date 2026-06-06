@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 04:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 03:47:13 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #79 – Stremio Android TV & Android Mobile Updated</title>
+      <link>https://blog.stremio.com/stremio-tech-update-79-stremio-android-tv-android-mobile-updated/</link>
+      <description><![CDATA[After many months of testing, we released the Beta versions of Android TV (v1.10.2) and Android Mobile (v2.2.3) to Stable channel, many things changed, here are some highlights! Android TV:– Add MPV player– Add Usenet support– Add progressive seeking on player (the longer you seek the more the step increases)– Add seek duration settings– Add…]]></description>
+      <pubDate>Fri, 05 Jun 2026 15:43:05 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-79-stremio-android-tv-android-mobile-updated/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2026/06/Screenshot-2026-06-05-at-19.08.09-1024x574.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #78 – Stremio v5 & Stremio Web Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-78-stremio-v5-stremio-web-updated/</link>
@@ -86,15 +95,6 @@
       <pubDate>Wed, 25 Feb 2026 15:39:24 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-on-macos-issues-are-now-resolved/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/macOS-release-2-1024x538.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #71 – Android TV Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-71-android-tv-updated/</link>
-      <description><![CDATA[We just released v1.9.4 for Android TV, here’s what changed: Fixed disabling of subtitles not respected Fixed subtitles font size Fixed delays not being reset after changing tracks Fixed player type not being remembered Fixed images of catalogs not loading on old devices Fixed readability of tracks menus items Fixed incorrect time when opening in…]]></description>
-      <pubDate>Sat, 07 Feb 2026 10:28:50 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-71-android-tv-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8-1024x576.png" length="10000" type="image/png" />
     </item>
     
   </channel>
