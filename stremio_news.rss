@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 03:49:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 04:00:16 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Supporters – a way to sustain our development</title>
+      <link>https://blog.stremio.com/stremio-supporters-a-way-to-sustain-our-development/</link>
+      <description><![CDATA[Stremio has been completely free for the last 11 years – and it will always remain free! However, in order to deliver the quality, support and cutting-edge features you’re all used to, we’re launching Stremio Supporters: an optional way for our community to support the long-term development of our product. Stremio will always be free, and…]]></description>
+      <pubDate>Tue, 09 Jun 2026 14:39:06 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-supporters-a-way-to-sustain-our-development/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2026/06/supporters-1024x538.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio OpenSubtitles Hotfix</title>
       <link>https://blog.stremio.com/stremio-opensubtitles-hotfix-2/</link>
@@ -86,15 +95,6 @@
       <pubDate>Fri, 06 Mar 2026 16:47:16 GMT</pubDate>
       <guid>https://blog.stremio.com/macos-apps-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/11/macOS-release-2-1024x538.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #72 – Android TV Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-72-android-tv-updated/</link>
-      <description><![CDATA[We just released v1.9.8 of Stremio Android TV app to the Stable channel and v1.9.10 for the Beta channel. You can join the beta on your Android phone from the Stremio app page on Google Play and it will give you the option to update to Beta on the Android TV devices too. Stable v1.9.8…]]></description>
-      <pubDate>Fri, 27 Feb 2026 13:56:17 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-72-android-tv-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4-1024x576.png" length="10000" type="image/png" />
     </item>
     
   </channel>
