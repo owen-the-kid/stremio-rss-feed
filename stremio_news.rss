@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 03:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 02:50:40 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #82 – Stremio Update for MacOS and iOS</title>
+      <link>https://blog.stremio.com/stremio-tech-update-82-stremio-update-for-macos-and-ios/</link>
+      <description><![CDATA[Stremio Lite (native app, not to be confused with Stremio v5 for MacOS) for MacOS was previously available through the App Store. We’re now releasing a new version of Stremio (native app) that is available as a notarized app outside the App Store, this means it can now support extra features such as torrent streaming….]]></description>
+      <pubDate>Fri, 10 Jul 2026 16:17:32 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-82-stremio-update-for-macos-and-ios/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1-1024x576.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #81 – Stremio v5 Released for Linux</title>
       <link>https://blog.stremio.com/stremio-tech-update-81-stremio-v5-released-for-linux/</link>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 26 Mar 2026 17:13:33 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-76-fixed-stremio-v4-for-high-sierra-and-mojave/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8-1024x576.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #75 – Stremio Android TV Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-75-stremio-android-tv-updated/</link>
-      <description><![CDATA[We updated the android tv app (v1.9.12), here’s what changed: Fixed crash caused by huge images Fixed UI performance issues in player Fixed an issue that was causing audio/video desync Fixed a crash that would happen when an addon provides a malformed URL The update has already been approved on Google Play, for those that…]]></description>
-      <pubDate>Sat, 21 Mar 2026 14:13:16 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-75-stremio-android-tv-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1-1024x576.png" length="10000" type="image/png" />
     </item>
     
   </channel>
