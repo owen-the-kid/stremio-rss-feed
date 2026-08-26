@@ -5,8 +5,26 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 01:22:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 01:25:49 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #84 – Stremio Update for MacOS and iOS</title>
+      <link>https://blog.stremio.com/stremio-tech-update-84-stremio-update-for-macos-and-ios/</link>
+      <description><![CDATA[We updated the Stremio iOS app (AltStore) and Stremio MacOS Native app (v2.0.7), here’s what changed: Supporters only: About Live Activities Download Live Activities require iOS 16.2 or later. Due to iOS background-execution restrictions, live progress reporting may pause around 30 seconds after the app enters the background. The download will continue, and the Live…]]></description>
+      <pubDate>Tue, 25 Aug 2026 15:20:25 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-84-stremio-update-for-macos-and-ios/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5-1024x576.png" length="10000" type="image/png" />
+    </item>
+    
+    <item>
+      <title>Stremio for LG TV is Back 2020+ Models (including 2026 models)</title>
+      <link>https://blog.stremio.com/stremio-for-lg-tv-is-back-2020-models-including-2026-models/</link>
+      <description><![CDATA[A few weeks ago Stremio was removed from the LG TV store for all models due to an app bug found by the LG review team. We are glad to announce that we just received word from LG TV that we have been relisted in their app store for 2020+ models, and they are including…]]></description>
+      <pubDate>Tue, 25 Aug 2026 13:09:46 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-for-lg-tv-is-back-2020-models-including-2026-models/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/11/samsung-2-1001x1024.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #83 – Stremio v5 & Stremio Web Updated</title>
       <link>https://blog.stremio.com/stremio-tech-update-83-stremio-v5-stremio-web-updated/</link>
@@ -77,24 +95,6 @@
       <pubDate>Fri, 05 Jun 2026 15:43:05 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-79-stremio-android-tv-android-mobile-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2026/06/Screenshot-2026-06-05-at-19.08.09-1024x574.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #78 – Stremio v5 & Stremio Web Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-78-stremio-v5-stremio-web-updated/</link>
-      <description><![CDATA[We just released a Stremio v5 (MacOS) and Stremio Web update, here’s what changed: UI: Details: Improved the background image position Details: Correctly respect PWA safe area Add Gamepad / Controller Support (Xbox, Playstation, etc) MacOS app specific: Fixed HDR streams on external display being dimmed Stay tuned as we have more surprises for our…]]></description>
-      <pubDate>Wed, 29 Apr 2026 15:53:12 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-78-stremio-v5-stremio-web-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5-1024x576.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #77 – Stremio v5 & Stremio Web Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-77-stremio-v5-stremio-web-updated/</link>
-      <description><![CDATA[We just released a new version of Stremio v5 and Stremio Web (v5.0.0-beta.35), here’s what changed: Player: Added media key support (play/pause, next/previous track) Added video scale/zoom property Added HDR badge indicator Added context menu on subtitle choice (download subtitle, copy sub id, copy sub link) Show subtitle name when hovering in subtitle menu Fixed…]]></description>
-      <pubDate>Mon, 27 Apr 2026 15:40:02 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-77-stremio-v5-stremio-web-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4-1024x576.png" length="10000" type="image/png" />
     </item>
     
   </channel>
