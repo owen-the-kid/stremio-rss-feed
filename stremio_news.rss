@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 03:49:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:54:17 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #86 – Stremio Update for MacOS and iOS</title>
+      <link>https://blog.stremio.com/stremio-tech-update-86-stremio-update-for-macos-and-ios/</link>
+      <description><![CDATA[Stremio 2.1 for iOS, iPadOS, tvOS and MacOS is here, and it’s a big one. Highlights Heads up: 2.1 needs iOS 15 or macOS 12 and newer. iOS 13–14 and macOS 10.15–11 are no longer supported. tvOS still needs 15. New Redesigned Improvements Fixes Accessibility System requirements The move to the current Apple SDK and…]]></description>
+      <pubDate>Thu, 22 Oct 2026 18:51:25 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-86-stremio-update-for-macos-and-ios/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-blur-8-1024x576.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #85 – Stremio Desktop and Stremio Web Update</title>
       <link>https://blog.stremio.com/stremio-tech-update-85-stremio-desktop-and-stremio-web-update/</link>
@@ -86,15 +95,6 @@
       <pubDate>Tue, 09 Jun 2026 14:39:06 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-supporters-a-way-to-sustain-our-development/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2026/06/supporters-1024x538.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio OpenSubtitles Hotfix</title>
-      <link>https://blog.stremio.com/stremio-opensubtitles-hotfix-2/</link>
-      <description><![CDATA[Due to a recent OpenSubtitles API change subtitles were no longer found for movies specifically. We just released a hotfix that should solution this and movies should start receiving subtitles again. We apologise for any inconvenience that this may have caused, have a great day!]]></description>
-      <pubDate>Mon, 08 Jun 2026 14:05:41 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-opensubtitles-hotfix-2/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2024/01/Infra-fix-1024x538.png" length="10000" type="image/png" />
     </item>
     
   </channel>
