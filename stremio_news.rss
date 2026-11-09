@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 10:21:50 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #88 – Stremio Android Mobile Update</title>
+      <link>https://blog.stremio.com/stremio-tech-update-88-stremio-android-mobile-update/</link>
+      <description><![CDATA[We just released the Android Mobile app (v2.5.0), here’s what changed: For supporters: We have also started work on experimental themes settings for other platforms. Stay tuned as we have more surprises for our users in 2026!]]></description>
+      <pubDate>Tue, 27 Oct 2026 15:52:35 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-88-stremio-android-mobile-update/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-1-1024x576.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #87 – Stremio Android TV Update</title>
       <link>https://blog.stremio.com/stremio-tech-update-87-stremio-android-tv-update/</link>
@@ -86,15 +95,6 @@
       <pubDate>Tue, 23 Jun 2026 15:54:40 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-80-stremio-v5-stremio-web-updated/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-2-1024x576.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Released on Apple AltStore for Brazil</title>
-      <link>https://blog.stremio.com/stremio-released-on-apple-altstore-for-brazil/</link>
-      <description><![CDATA[We recently announced that we released Stremio for AltStore for Europe and Japan, today we are happy to announce that we are also available with Stremio (full version) on AltStore for Brazil! As this is the full version of Stremio it includes torrent and usenet support. To install Stremio in these regions you would need…]]></description>
-      <pubDate>Tue, 23 Jun 2026 05:15:02 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-released-on-apple-altstore-for-brazil/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/08/iOS-release-1024x538.png" length="10000" type="image/png" />
     </item>
     
   </channel>
