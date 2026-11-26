@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 07:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:26:15 GMT</lastBuildDate>
 
+    <item>
+      <title>Stremio Tech Update #91 – Android Mobile and Android TV Update</title>
+      <link>https://blog.stremio.com/stremio-tech-update-91-android-mobile-and-android-tv-update/</link>
+      <description><![CDATA[We released a new version of the Android Mobile app (v2.6.0) and Android TV app (v1.13.0), here’s what changed: Android Mobile: Android TV: Stay tuned as we have more surprises for our users in 2026!]]></description>
+      <pubDate>Wed, 25 Nov 2026 09:52:39 GMT</pubDate>
+      <guid>https://blog.stremio.com/stremio-tech-update-91-android-mobile-and-android-tv-update/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5-1024x576.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #90 – Stremio Desktop and Stremio Web Update</title>
       <link>https://blog.stremio.com/stremio-tech-update-90-stremio-desktop-and-stremio-web-update/</link>
@@ -86,15 +95,6 @@
       <pubDate>Tue, 25 Aug 2026 13:09:46 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-for-lg-tv-is-back-2020-models-including-2026-models/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/11/samsung-2-1001x1024.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio Tech Update #83 – Stremio v5 & Stremio Web Updated</title>
-      <link>https://blog.stremio.com/stremio-tech-update-83-stremio-v5-stremio-web-updated/</link>
-      <description><![CDATA[We updated Stremio Web and Stremio v5 for Desktop, here’s what changed: Player Details & Library Settings Supporters App Wide: macOS app specific Windows app specific: Stay tuned as we have more surprises for our users in 2026!]]></description>
-      <pubDate>Mon, 27 Jul 2026 17:02:39 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-tech-update-83-stremio-v5-stremio-web-updated/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/09/stremio-tech-update-cat-4-1024x576.png" length="10000" type="image/png" />
     </item>
     
   </channel>
