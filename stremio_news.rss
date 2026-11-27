@@ -5,8 +5,17 @@
     <link>https://blog.stremio.com/category/stremio-news/</link>
     <description>Latest news and updates from the Stremio Blog</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 07:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:23:06 GMT</lastBuildDate>
 
+    <item>
+      <title>Black Friday Deal and New Free Features</title>
+      <link>https://blog.stremio.com/black-friday-deal-and-new-free-features/</link>
+      <description><![CDATA[As some of you may know, we have a supporters tier where you can either subscribe (or get the lifetime – paid once) in order to experience all our experimental features that we’ve been working on for a while. There is a Black Friday offer of 30% off for lifetime supporters and 25% off for…]]></description>
+      <pubDate>Thu, 26 Nov 2026 11:26:26 GMT</pubDate>
+      <guid>https://blog.stremio.com/black-friday-deal-and-new-free-features/</guid>
+      <enclosure url="https://blog.stremio.com/wp-content/uploads/2026/11/bf-blog-1024x576.png" length="10000" type="image/png" />
+    </item>
+    
     <item>
       <title>Stremio Tech Update #91 – Android Mobile and Android TV Update</title>
       <link>https://blog.stremio.com/stremio-tech-update-91-android-mobile-and-android-tv-update/</link>
@@ -86,15 +95,6 @@
       <pubDate>Tue, 25 Aug 2026 15:20:25 GMT</pubDate>
       <guid>https://blog.stremio.com/stremio-tech-update-84-stremio-update-for-macos-and-ios/</guid>
       <enclosure url="https://blog.stremio.com/wp-content/uploads/2025/10/stremio-tech-update-cat-5-1024x576.png" length="10000" type="image/png" />
-    </item>
-    
-    <item>
-      <title>Stremio for LG TV is Back 2020+ Models (including 2026 models)</title>
-      <link>https://blog.stremio.com/stremio-for-lg-tv-is-back-2020-models-including-2026-models/</link>
-      <description><![CDATA[A few weeks ago Stremio was removed from the LG TV store for all models due to an app bug found by the LG review team. We are glad to announce that we just received word from LG TV that we have been relisted in their app store for 2020+ models, and they are including…]]></description>
-      <pubDate>Tue, 25 Aug 2026 13:09:46 GMT</pubDate>
-      <guid>https://blog.stremio.com/stremio-for-lg-tv-is-back-2020-models-including-2026-models/</guid>
-      <enclosure url="https://blog.stremio.com/wp-content/uploads/2023/11/samsung-2-1001x1024.png" length="10000" type="image/png" />
     </item>
     
   </channel>
